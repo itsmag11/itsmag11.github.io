@@ -7,6 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+p { font-size : 16px; }
+h1 { font-size : 34px; margin : 0; padding : 0; }
+h2 { font-size : 20px; margin : 0; padding : 0; }
+h3 { font-size : 18px; margin : 8; padding : 0; }
+body { padding : 0; font-family : Arial; font-size : 16px; background-color : #fff; }
+.title { width : 650px; margin : 20px auto; }
+.container { width : 750px; margin : 20px auto; border-radius: 10px;  background-color : #fff; padding : 20px;  clear:both;}
+#bio {
+    padding-top : 30px;
+}
+#me { border : 0 solid black; margin-bottom : 50px; border-radius : 10px; }
+#sidebar { margin-left : 25px; border : 0 solid black; float : right; margin-bottom : 0;}
 a { text-decoration : none; }
 a:hover { text-decoration : underline; }
 a, a:visited { color : #0050e7; }
@@ -16,6 +28,14 @@ a, a:visited { color : #0050e7; }
 .publication strong a { color : #0000A0; }
 .publication .links { position : relative; top : 15px }
 .publication .links a { margin-right : 20px; }
+.codelogo { margin-right : 10px; float : left; border : 0;}
+.code { clear : left; padding-bottom : 10px; vertical-align :middle;} 
+.code .download a { display : block; margin : 0 15px; float : left;}
+.code strong a { color : #000; }
+.external a { margin : 0 10px; }
+.external a.first { margin : 0 10px 0 0; }
+	</style>
+	<script async="" src="./homepage_files/analytics.js"></script>
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
