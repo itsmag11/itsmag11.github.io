@@ -29,14 +29,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div>
 <div class="badge">BMVC 2023</div>
-<img style="float: left; margin:5px 10px" src="images/virmp.jpg" width="300" height="240">
+<img style="float: left; margin:5px 10px" src="images/virmp.jpg" width="300" height="240"></div>
 ### Video Infilling with Rich Motion Prior
 <p style="line-height:1.0">
 <strong>Xinyu Hou</strong>, Liming Jiang, Rui Shao, Chen Change Loy<br />
 <a href="">Paper</a>
 <br />
 </p>
-</div>
 
 -----
 
