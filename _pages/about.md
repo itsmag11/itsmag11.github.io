@@ -23,12 +23,10 @@ I am currently a Ph.D. candidate supervised by <a href="https://www.mmlab-ntu.co
 
 
 <br />
-<br />
 # News
 - *2023.08*: &nbsp;Our paper <i>Viedo Infilling with Rich Motion Prior</i> is accepted by BMVC 2023. 
 
 
-<br />
 <br />
 # Publications 
 
@@ -42,7 +40,6 @@ The 34th British Machine Vision Conference (<strong>BMVC</strong>), 2023<br />
 <br />
 
 
-<br />
 <br />
 # Educations
 - *2021.08 - now*, Ph.D. in Computer Science <br /> Nanyang Technological University
