@@ -38,7 +38,7 @@ I am currently a Ph.D. candidate supervised by <a href="https://www.mmlab-ntu.co
 **Xinyu Hou**, Liming Jiang, Rui Shao, Chen Change Loy <br />
 British Machine Vision Conference (**BMVC**), 2023
 
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+[**Paper**]("")
 </div>
 </div>
 
