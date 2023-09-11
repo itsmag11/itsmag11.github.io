@@ -66,6 +66,56 @@ IEEE International Conference on Multimedia & Expo Workshops (<strong>ICMEW</str
 <br />
 <br />
 
+<div class="container">
+		<h2>Publications</h2>
+        <br>
+        <div class="publication">
+            <img src="./homepage_files/maskclip_logo.jpg" class="publogo" width="200 px">
+            <p> 
+                <strong>
+                    <a href="https://arxiv.org/abs/2112.01071">Extract Free Dense Labels from CLIP</a>
+                </strong>
+                <br>
+                <br>
+                <b>Chong Zhou</b>, Chen Change Loy, Bo Dai.
+                <br>
+                <em>European Conference on Computer Vision (ECCV), 2022 <font color="#e86e14">(Oral)</font> </em>
+                <!-- <em> arXiv preprint, 2021 </em> -->
+                <br>
+                <span class="links">
+                    <a href="https://arxiv.org/abs/2112.01071">arXiv</a>
+                    <a href="https://www.mmlab-ntu.com/project/maskclip/index.html">Project Page</a>
+                    <a href="https://github.com/chongzhou96/MaskCLIP">Code</a>
+                </span>
+            </p>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div class="publication">
+            <img src="./homepage_files/pacnet_logo.png" class="publogo" width="200 px">
+            <p> 
+                <strong>
+                    <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940602.pdf">PAC-Net: Highlight Your Video via History Preference Modeling</a>
+                </strong>
+                <br>
+                <br>
+                Hang Wang, Penghao Zhou, <b>Chong Zhou</b>, Zhao Zhang, Xing Sun.
+                <br>
+                <em>European Conference on Computer Vision (ECCV), 2022 </em>
+                <!-- <em> arXiv preprint, 2021 </em> -->
+                <br>
+                <span class="links">
+                    <a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136940602.pdf">PDF</a>
+                </span>
+            </p>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+
 
 <br />
 # Educations
