@@ -38,8 +38,6 @@ The 34th British Machine Vision Conference (<strong>BMVC</strong>), 2023<br />
 <a href="">Paper</a>
 <br />
 <br />
-<br />
-<br />
 
 <img style="float: left; margin:5px 10px" src="images/dslcf.jpg" width="300" height="240">
 <br />
