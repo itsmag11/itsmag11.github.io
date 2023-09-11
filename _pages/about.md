@@ -31,18 +31,19 @@ I am currently a Ph.D. candidate supervised by <a href="https://www.mmlab-ntu.co
 # Publications 
 
 <img style="float: left; margin:5px 10px" src="images/virmp.jpg" width="300" height="240">
+<br />
 ### Video Infilling with Rich Motion Prior
-
 <strong>Xinyu Hou</strong>, Liming Jiang, Rui Shao, Chen Change Loy<br />
 The 34th British Machine Vision Conference (<strong>BMVC</strong>), 2023<br />
 <a href="">Paper</a>
 <br />
 <br />
+<br />
+<br />
 
----
-<img style="float: left; margin:5px 10px" src="images/virmp.jpg" width="300" height="240">
+<img style="float: left; margin:5px 10px" src="images/dslcf.jpg" width="300" height="240">
+<br />
 ### Vehicle Tracking Using Deep SORT with Low Confidence Track Filtering
-
 <strong>Xinyu Hou</strong>, Yi Wang, Lap-Pui Chau<br />
 The 16th IEEE International Conference on Advanced Video and Signal Based Surveillance (<strong>AVSS</strong>), 2019<br />
 <a href="https://ieeexplore.ieee.org/abstract/document/8909903">Paper</a>
