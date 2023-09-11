@@ -33,7 +33,31 @@ I am currently a Ph.D. candidate supervised by <a href="https://www.mmlab-ntu.co
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2023</div><img src='images/virmp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Video Infilling with Rich Motion Prior
+## Video Infilling with Rich Motion Prior
+
+**Xinyu Hou**, Liming Jiang, Rui Shao, Chen Change Loy
+British Machine Vision Conference (**BMVC**), 2023
+
+[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='images/wangyi2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## A self-training approach for point-supervised object detection and counting in crowds
+
+Yi Wang, Junhui Hou, **Xinyu Hou**, Lap-Pui Chau
+IEEE Transactions on Image Processing (**TIP**), 2021
+
+[**Paper**]("https://ieeexplore.ieee.org/abstract/document/9347744") <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2023</div><img src='images/virmp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Video Infilling with Rich Motion Prior
 
 **Xinyu Hou**, Liming Jiang, Rui Shao, Chen Change Loy
 
@@ -41,8 +65,16 @@ Video Infilling with Rich Motion Prior
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2023</div><img src='images/virmp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+## Video Infilling with Rich Motion Prior
+
+**Xinyu Hou**, Liming Jiang, Rui Shao, Chen Change Loy
+
+[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
 # Educations
 - *2021.08 - now*, Ph.D. in Computer Science <br /> Nanyang Technological University
 - *2016.08 - 2020.06*, B.Eng. in Electrical and Electronic Engineering  <br /> Nanyang Technological University
