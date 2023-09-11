@@ -39,12 +39,16 @@ British Machine Vision Conference (<strong>BMVC</strong>), 2023<br />
 <br />
 <br />
 <br />
+<br />
 
 <img style="float: left; margin:5px 10px" src="images/wangyi2.jpg" width="300" height="240">
+<br />
 ### A self-training approach for point-supervised object detection and counting in crowds
 Yi Wang, Junhui Hou, <strong>Xinyu Hou</strong>, Lap-Pui Chau<br />
 IEEE Transactions on Image Processing (<strong>TIP</strong>), 2021<br />
 <a href="https://ieeexplore.ieee.org/abstract/document/9347744">Paper</a>
+<br />
+<br />
 <br />
 <br />
 
