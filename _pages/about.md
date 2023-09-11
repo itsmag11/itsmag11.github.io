@@ -38,7 +38,8 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<img style="float: left; margin:5px 10px" src="images/virmp.jpg" width="160" height="140">
+<div class="badge">BMVC 2023</div>
+<img style="float: left; margin:5px 10px" src="images/virmp.jpg" width="240" height="180">
 ### Video Infilling with Rich Motion Prior
 <p style="line-height:1.0">
 <font size="2">
