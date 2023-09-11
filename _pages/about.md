@@ -28,6 +28,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<br />
+<br />
 <img style="float: left; margin:5px 10px" src="images/virmp.jpg" width="300" height="240">
 ### Video Infilling with Rich Motion Prior
 <p style="line-height:1.0">
@@ -36,6 +38,7 @@ The 34th British Machine Vision Conference (<strong>BMVC</strong>), 2023<br />
 <a href="">Paper</a>
 <br />
 </p>
+<br />
 <br />
 
 
