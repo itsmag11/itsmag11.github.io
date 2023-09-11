@@ -38,7 +38,7 @@ I am currently a Ph.D. candidate supervised by <a href="https://www.mmlab-ntu.co
 **Xinyu Hou**, Liming Jiang, Rui Shao, Chen Change Loy <br />
 British Machine Vision Conference (**BMVC**), 2023
 
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
 </div>
 </div>
 
@@ -50,7 +50,7 @@ British Machine Vision Conference (**BMVC**), 2023
 Yi Wang, Junhui Hou, **Xinyu Hou**, Lap-Pui Chau <br />
 IEEE Transactions on Image Processing (**TIP**), 2021
 
-[**Paper**]("https://ieeexplore.ieee.org/abstract/document/9347744") <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/9347744)
 </div>
 </div>
 
@@ -62,7 +62,7 @@ IEEE Transactions on Image Processing (**TIP**), 2021
 Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 IEEE International Conference on Multimedia & Expo Workshops (**ICMEW**), 2021
 
-[**Paper**]("https://ieeexplore.ieee.org/abstract/document/9347744") <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/9347744)
 </div>
 </div>
 
@@ -74,7 +74,7 @@ IEEE International Conference on Multimedia & Expo Workshops (**ICMEW**), 2021
 **Xinyu Hou**, Yi Wang, Lap-Pui Chau <br />
 IEEE International Conference on Advanced Video and Signal-Based Surveillance (**AVSS**), 2019
 
-[**Paper**]("https://ieeexplore.ieee.org/abstract/document/8909903") <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/8909903)
 </div>
 
 
