@@ -31,20 +31,38 @@ I am currently a Ph.D. candidate supervised by <a href="https://www.mmlab-ntu.co
 # Publications 
 
 <img style="float: left; margin:5px 10px" src="images/virmp.jpg" width="300" height="240">
-<br />
 ### Video Infilling with Rich Motion Prior
 <strong>Xinyu Hou</strong>, Liming Jiang, Rui Shao, Chen Change Loy<br />
-The 34th British Machine Vision Conference (<strong>BMVC</strong>), 2023<br />
+British Machine Vision Conference (<strong>BMVC</strong>), 2023<br />
 <a href="">Paper</a>
+<br />
+<br />
 <br />
 <br />
 
 <img style="float: left; margin:5px 10px" src="images/dslcf.jpg" width="300" height="240">
-<br />
 ### Vehicle Tracking Using Deep SORT with Low Confidence Track Filtering
 <strong>Xinyu Hou</strong>, Yi Wang, Lap-Pui Chau<br />
-The 16th IEEE International Conference on Advanced Video and Signal Based Surveillance (<strong>AVSS</strong>), 2019<br />
+IEEE International Conference on Advanced Video and Signal Based Surveillance (<strong>AVSS</strong>), 2019<br />
 <a href="https://ieeexplore.ieee.org/abstract/document/8909903">Paper</a>
+<br />
+<br />
+
+<img style="float: left; margin:5px 10px" src="images/wangyi2.jpg" width="300" height="240">
+<br />
+### A self-training approach for point-supervised object detection and counting in crowds
+Yi Wang, Junhui Hou, <strong>Xinyu Hou</strong>, Lap-Pui Chau<br />
+IEEE Transactions on Image Processing (<strong>TIP</strong>), 2021<br />
+<a href="https://ieeexplore.ieee.org/abstract/document/9347744">Paper</a>
+<br />
+<br />
+
+<img style="float: left; margin:5px 10px" src="images/wangyi1.jpg" width="300" height="240">
+<br />
+### Dense point prediction: A simple baseline for crowd counting and localization
+Yi Wang, <strong>Xinyu Hou</strong>, Lap-Pui Chau<br />
+IEEE International Conference on Multimedia & Expo Workshops (<strong>ICMEW</strong>), 2021<br />
+<a href="https://ieeexplore.ieee.org/abstract/document/9347744">Paper</a>
 <br />
 <br />
 
