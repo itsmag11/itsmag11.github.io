@@ -76,12 +76,17 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/8909903)
 </div>
-
-
 </div>
+
+
 # Educations
-- *2021.08 - now*, **Nanyang Technological University** <br /> 
+## *2021.08 - now*, **Nanyang Technological University** <br /> 
   Ph.D. in Computer Science
-- *2016.08 - 2020.06*, **Nanyang Technological University**  <br /> 
+  
+## *2016.08 - 2020.06*, **Nanyang Technological University**  <br /> 
   B.Eng. in Electrical and Electronic Engineering
+  - Dean's List: 2019 - 2020
+  - NTU Science and Engineering Undergraduate Scholarship
+  - CGPA: 4.72/5.0
+
 <br />
