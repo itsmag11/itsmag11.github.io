@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hou Xinyu is currently a Ph.D. candidate supervised by <a href="https://www.mmlab-ntu.com/person/ccloy/">Prof. Chen Change Loy</a> at <a href="https://www.mmlab-ntu.com/"> MMLab@NTU</a>, in the School of Computer Science and Engineering, Nanyang Technological University, Singapore. Prior to her Ph.D. study, she also received her B.Eng. degree with honors (highest distinction) in 2020 from Nanyang Technological University, Singapore.
+I am currently a Ph.D. candidate supervised by <a href="https://www.mmlab-ntu.com/person/ccloy/">Prof. Chen Change Loy</a> at <a href="https://www.mmlab-ntu.com/"> MMLab@NTU</a>, in the School of Computer Science and Engineering, Nanyang Technological University, Singapore. Prior to my Ph.D. study, I also received my B.Eng. degree with honors (highest distinction) in 2020 from Nanyang Technological University, Singapore. I am broadly interested in computer vision and related topics.
 
-My research interest includes neural machine translation and computer vision. I currently have a total citation of <a href='https://scholar.google.com/citations?user=90lIt2QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+<a href='https://scholar.google.com/citations?user=90lIt2QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+<br />
 
-
-# 🔥 News
+# News
 - *2023.08*: &nbsp;Our paper <i>Viedo Infilling with Rich Motion Prior</i> is accepted by BMVC 2023. 
+<br />
 
-
-# 📝 Publications 
+# Publications 
 
 <img style="float: left; margin:5px 10px" src="images/virmp.jpg" width="300" height="240">
 <br />
@@ -40,7 +40,8 @@ The 34th British Machine Vision Conference (<strong>BMVC</strong>), 2023<br />
 <br />
 
 
-
-# 📖 Educations
-- *2021.08 - now*, Ph.D. in Computer Science <br /> Nanyang Technological University
-- *2016.08 - 2020.06*, B.Eng. in Electrical and Electronic Engineering  <br /> Nanyang Technological University 
+<br />
+# Educations
+- *2021.08 - now*, Ph.D. in Computer Science <br /> <p style="color:grey;">Nanyang Technological University</p>
+- *2016.08 - 2020.06*, B.Eng. in Electrical and Electronic Engineering  <br /> <p style="color:grey;">Nanyang Technological University</p>
+<br />
