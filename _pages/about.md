@@ -54,7 +54,7 @@ IEEE Transactions on Image Processing (**TIP**), 2021
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMEW 2021</div><img src='images/wangyi2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMEW 2021</div><img src='images/wangyi1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Dense point prediction: A simple baseline for crowd counting and localization
@@ -62,7 +62,7 @@ IEEE Transactions on Image Processing (**TIP**), 2021
 Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 IEEE International Conference on Multimedia & Expo Workshops (**ICMEW**), 2021
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/9347744)
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/9455954)
 </div>
 </div>
 
