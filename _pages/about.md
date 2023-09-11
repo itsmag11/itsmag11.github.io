@@ -25,6 +25,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔥 News
 - *2023.08*: &nbsp;Our paper <i>Viedo Infilling with Rich Motion Prior</i> is accepted by BMVC 2023. 
 
+
 # 📝 Publications 
 
 <img style="float: left; margin:5px 10px" src="images/virmp.jpg" width="300" height="240">
@@ -33,10 +34,10 @@ My research interest includes neural machine translation and computer vision. I 
 <strong>Xinyu Hou</strong>, Liming Jiang, Rui Shao, Chen Change Loy<br />
 The 34th British Machine Vision Conference (<strong>BMVC</strong>), 2023<br />
 <a href="">Paper</a>
-
 <br />
 </p>
------
+<br />
+
 
 
 # 📖 Educations
