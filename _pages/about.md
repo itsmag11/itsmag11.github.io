@@ -33,7 +33,6 @@ I am currently a Ph.D. candidate supervised by <a href="https://www.mmlab-ntu.co
 # Publications 
 
 <img style="float: left; margin:5px 10px" src="images/virmp.jpg" width="300" height="240">
-<br />
 ### Video Infilling with Rich Motion Prior
 
 <strong>Xinyu Hou</strong>, Liming Jiang, Rui Shao, Chen Change Loy<br />
