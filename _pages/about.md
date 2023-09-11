@@ -30,7 +30,7 @@ I am currently a Ph.D. candidate supervised by <a href="https://www.mmlab-ntu.co
 <br />
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2O23</div><img src=images/virmp.jpg" alt="sym" width="300" height="240"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2O23</div><img src=images/virmp.jpg" alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Video Infilling with Rich Motion Prior
