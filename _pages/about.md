@@ -38,6 +38,17 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<img style="float: left; margin:5px 10px" src="images/virmp.jpg" width="160" height="140">
+### Video Infilling with Rich Motion Prior
+<p style="line-height:1.0">
+<font size="2">
+<strong>Xinyu Hou</strong>, Liming Jiang, Rui Shao, Chen Change Loy<br />
+BMVC, 2023<br />
+<a href="">Paper</a>
+<br />
+</font>
+</p>
+
 # 📖 Educations
 - *2021.08 - now*, Ph.D. in Computer Science <br /> Nanyang Technological University
 - *2016.08 - 2020.06*, B.Eng. in Electrical and Electronic Engineering  <br /> Nanyang Technological University 
