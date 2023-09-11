@@ -80,6 +80,8 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 
 </div>
 # Educations
-- *2021.08 - now*, Ph.D. in Computer Science <br /> Nanyang Technological University
-- *2016.08 - 2020.06*, B.Eng. in Electrical and Electronic Engineering  <br /> Nanyang Technological University
+- *2021.08 - now*, ##Nanyang Technological University <br /> 
+  Ph.D. in Computer Science
+- *2016.08 - 2020.06*, ##Nanyang Technological University  <br /> 
+  B.Eng. in Electrical and Electronic Engineering
 <br />
