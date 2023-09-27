@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/person/ccloy/">Prof. Chen Change Loy</a> at <a href="https://www.mmlab-ntu.com/"> MMLab@NTU</a>, in the School of Computer Science and Engineering, Nanyang Technological University, Singapore. Prior to my Ph.D. study, I also received my B.Eng. degree with honors (highest distinction) in 2020 from Nanyang Technological University, Singapore. I am broadly interested in computer vision and related topics.
+I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/person/ccloy/">Prof. Chen Change Loy</a> at <a href="https://www.mmlab-ntu.com/"> MMLab@NTU</a>, in the School of Computer Science and Engineering, Nanyang Technological University, Singapore. Prior to my Ph.D. study, I also received my B.Eng. degree in 2020 from Nanyang Technological University, Singapore. I am broadly interested in computer vision and related topics.
 
 <a href='https://scholar.google.com/citations?user=90lIt2QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -85,7 +85,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 
 <br /> 
 ## Nanyang Technological University  <br /> 
-  B.Eng. in Electrical and Electronic Engineering, *2016.08 - 2020.06*
+  B.Eng. in Electrical and Electronic Engineering with honors (highest distinction), *2016.08 - 2020.06*
   - Dean's List: 2019 - 2020
   - NTU Science and Engineering Undergraduate Scholarship
   - CGPA: 4.72/5.0
