@@ -80,15 +80,16 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 
 
 # Educations
-## Nanyang Technological University <br /> 
-  Ph.D. in Computer Science, *2021.08 - now*
+## Ph.D. in Computer Science <br /> 
+  Nanyang Technological University, *2021.08 - now*
 
 <br /> 
-## Nanyang Technological University  <br /> 
-  B.Eng. in Electrical and Electronic Engineering with honors (highest distinction), *2016.08 - 2020.06*
+## B.Eng. in Electrical and Electronic Engineering <br /> 
+   Nanyang Technological University, *2016.08 - 2020.06*
+  - Degree with honors (highest distinction)
   - Dean's List: 2019 - 2020
-  - NTU Science and Engineering Undergraduate Scholarship
   - CGPA: 4.72/5.0
+  - NTU Science and Engineering Undergraduate Scholarship
 
 <br />
 
