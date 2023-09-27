@@ -91,3 +91,5 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
   - CGPA: 4.72/5.0
 
 <br />
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Yt038fCiB-Z6pytc0E24sPo3vTJPlHp6eY5WSv0eUI4&cl=ffffff&w=a"></script>
