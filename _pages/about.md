@@ -93,4 +93,4 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 
 <br />
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=350&t=n&d=Yt038fCiB-Z6pytc0E24sPo3vTJPlHp6eY5WSv0eUI4&co=ffffff&cmo=0097ff&cmn=004bff&ct=808080"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=325&t=n&d=Yt038fCiB-Z6pytc0E24sPo3vTJPlHp6eY5WSv0eUI4&co=ffffff&cmo=ffd300&cmn=ff7700&ct=808080"></script>
