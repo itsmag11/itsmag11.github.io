@@ -75,10 +75,9 @@ IEEE International Conference on Multimedia & Expo Workshops (**ICMEW**), 2021
 IEEE International Conference on Advanced Video and Signal-Based Surveillance (**AVSS**), 2019
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/8909903)
-</div>
-</div>
 
 
+<br /> 
 # Educations
 ## Ph.D. in Computer Science <br /> 
   Nanyang Technological University, *2021.08 - now*
@@ -92,5 +91,9 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
   - NTU Science and Engineering Undergraduate Scholarship
 
 <br />
+# Academic Services
+- Conference Reviewers: BMVC 2023, ICLR 2024
+</div>
 
+<br />
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=474747&w=350&t=n&d=Yt038fCiB-Z6pytc0E24sPo3vTJPlHp6eY5WSv0eUI4&co=ffffff&cmo=00f2fe&cmn=0069ff&ct=808080"></script>
