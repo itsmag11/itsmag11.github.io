@@ -87,13 +87,11 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 ## B.Eng. in Electrical and Electronic Engineering <br /> 
    Nanyang Technological University, *2016.08 - 2020.06*
   - Degree with honors (highest distinction)
-  - Dean's List: 2019 - 2020
-  - CGPA: 4.72/5.0
-  - NTU Science and Engineering Undergraduate Scholarship
 
 <br />
 # Academic Services
-- Conference Reviewers: BMVC 2023, ICLR 2024
+- Conference Reviewer: ICLR, BMVC
+- Journal Reviewer: IJCV
 
 
 <br />
