@@ -24,7 +24,7 @@ I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/
 
 <br />
 # News
-- *2024.02*: &nbsp;Our paper <i>When StyleGAN Meets Stable Diffusion: a \(W_+\) Adapter for Personalized Image Generation</i> is accepted by CVPR 2024.
+- *2024.02*: &nbsp;Our paper <i>When StyleGAN Meets Stable Diffusion: a W+ Adapter for Personalized Image Generation</i> is accepted by CVPR 2024.
 - *2023.08*: &nbsp;Our paper <i>Viedo Infilling with Rich Motion Prior</i> is accepted by BMVC 2023. 
 
 
