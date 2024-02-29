@@ -31,7 +31,7 @@ I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/
 <br />
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/virmp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/w+adapter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## Video Infilling with Rich Motion Prior
@@ -39,7 +39,7 @@ I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/
 Xiaoming Li, **Xinyu Hou**, Chen Change Loy <br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
 
-[**Paper**](https://papers.bmvc2023.org/0103.pdf) | [**Poster**](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0103_poster.pdf) | [**Supplementary Material**](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0103_supp.pdf)
+[**ArXiv**]([https://papers.bmvc2023.org/0103.pdf](https://arxiv.org/abs/2311.17461)) | [**Code**]([https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0103_poster.pdf](https://github.com/csxmli2016/w-plus-adapter)) | [**Project Page**]([https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0103_supp.pdf](https://csxmli2016.github.io/projects/w-plus-adapter/))
 </div>
 </div>
 
