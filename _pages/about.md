@@ -24,12 +24,24 @@ I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/
 
 <br />
 # News
-- *2024.02*: &nbsp;Our paper <i>When StyleGAN Meets Stable Diffusion: a W+ Adapter for Personalized Image Generation</i> is accepted by CVPR 2024.
+- *2024.02*: &nbsp;Our paper <i>When StyleGAN Meets Stable Diffusion: A W+ Adapter for Personalized Image Generation</i> is accepted by CVPR 2024.
 - *2023.08*: &nbsp;Our paper <i>Viedo Infilling with Rich Motion Prior</i> is accepted by BMVC 2023. 
 
 
 <br />
 # Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/virmp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Video Infilling with Rich Motion Prior
+
+Xiaoming Li, **Xinyu Hou**, Chen Change Loy <br />
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
+
+[**Paper**](https://papers.bmvc2023.org/0103.pdf) | [**Poster**](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0103_poster.pdf) | [**Supplementary Material**](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0103_supp.pdf)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2023</div><img src='images/virmp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
