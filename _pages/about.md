@@ -34,7 +34,7 @@ I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/w+adapter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Video Infilling with Rich Motion Prior
+## When StyleGAN Meets Stable Diffusion: A W+ Adapter for Personalized Image Generation
 
 Xiaoming Li, **Xinyu Hou**, Chen Change Loy <br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
