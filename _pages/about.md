@@ -39,7 +39,7 @@ I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/
 Xiaoming Li, **Xinyu Hou**, Chen Change Loy <br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
 
-[**ArXiv**](https://arxiv.org/abs/2311.17461) | [**Code**](https://github.com/csxmli2016/w-plus-adapter) | [**Project Page**](https://csxmli2016.github.io/projects/w-plus-adapter/)
+[**arXiv**](https://arxiv.org/abs/2311.17461) | [**Code**](https://github.com/csxmli2016/w-plus-adapter) | [**Project Page**](https://csxmli2016.github.io/projects/w-plus-adapter/)
 </div>
 </div>
 
