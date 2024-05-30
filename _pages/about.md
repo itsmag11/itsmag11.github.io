@@ -103,8 +103,13 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 
 <br />
 # Academic Services
-- Conference Reviewer: ICLR, BMVC
-- Journal Reviewer: IJCV
+Conference Reviewer: 
+- BMVC 2023，2024
+- ICLR 2024
+- NeurIPS 2024
+
+Journal Reviewer:
+- IJCV
 
 
 <br />
