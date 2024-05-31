@@ -95,8 +95,8 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 <br /> 
 # Educations
 ## Nanyang Technological University, Singapore <br /> 
-    <div style="float:left">Ph.D. in Computer Science</div>
-    <div style="float:right">*2021.08 - now*</div>
+   Ph.D. in Computer Science <br /> 
+   *2021.08 - now*
 
 ## Nanyang Technological University, Singapore <br /> 
    B.Eng. in Electrical and Electronic Engineering <br /> 
