@@ -89,14 +89,13 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/8909903)
 </div>
-</div>
+
 
 <br /> 
 # Educations
 ## Ph.D. in Computer Science <br /> 
   Nanyang Technological University, *2021.08 - now*
 
-<br /> 
 ## B.Eng. in Electrical and Electronic Engineering <br /> 
    Nanyang Technological University, *2016.08 - 2020.06*
   - Degree with honors (highest distinction)
