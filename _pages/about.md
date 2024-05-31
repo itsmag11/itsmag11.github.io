@@ -89,6 +89,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 
 [**Paper**](https://ieeexplore.ieee.org/abstract/document/8909903)
 </div>
+</div>
 
 
 <br /> 
