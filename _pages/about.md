@@ -103,10 +103,6 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
    *2016.08 - 2020.06*
    - Degree with honors (highest distinction)
 
-<br />
-# Academic Awards
-- [2019-2020] NTU School of Electrical and Electronic Engineering Dean’s List
-- [2016-2020] NTU Science and Engineering Undergraduate Scholarship 
 
 <br />
 # Academic Services
