@@ -112,7 +112,7 @@ Conference Reviewer:
 - NeurIPS 2024
 
 Journal Reviewer:
-- IJCV
+- International Journal of Computer Vision (IJCV)
 
 
 <br />
