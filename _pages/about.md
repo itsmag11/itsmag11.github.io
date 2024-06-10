@@ -58,7 +58,7 @@ British Machine Vision Conference (**BMVC**), 2023
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='images/wangyi2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## A Self-training Approach for Point-supervised Object Detection and Counting in Crowds
+## A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds
 
 Yi Wang, Junhui Hou, **Xinyu Hou**, Lap-Pui Chau <br />
 IEEE Transactions on Image Processing (**TIP**), 2021
