@@ -98,6 +98,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
    Ph.D. in Computer Science <br /> 
    *2021.08 - now*
 
+<br /> 
 ## Nanyang Technological University, Singapore <br /> 
    B.Eng. in Electrical and Electronic Engineering <br /> 
    *2016.08 - 2020.06*
@@ -109,6 +110,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 Journal Reviewer:
 - International Journal of Computer Vision (IJCV)
 
+<br /> 
 Conference Reviewer: 
 - BMVC 2023，2024
 - ICLR 2024
