@@ -58,7 +58,7 @@ British Machine Vision Conference (**BMVC**), 2023
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2021</div><img src='images/wangyi2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## A self-training approach for point-supervised object detection and counting in crowds
+## A Self-training Approach for Point-supervised Object Detection and Counting in Crowds
 
 Yi Wang, Junhui Hou, **Xinyu Hou**, Lap-Pui Chau <br />
 IEEE Transactions on Image Processing (**TIP**), 2021
@@ -70,7 +70,7 @@ IEEE Transactions on Image Processing (**TIP**), 2021
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMEW 2021</div><img src='images/wangyi1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Dense point prediction: A simple baseline for crowd counting and localization
+## Dense Point Prediction: A Simple Baseline for Crowd Counting and Localization
 
 Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 IEEE International Conference on Multimedia & Expo Workshops (**ICMEW**), 2021
