@@ -31,6 +31,18 @@ I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/
 <br />
 # Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/aitti.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation
+
+**Xinyu Hou**, Xiaoming Li, Chen Change Loy <br />
+arXiv, 2024
+
+[**arXiv**]() | [**Code**](https://github.com/itsmag11/AITTI) | [**Project Page**](https://itsmag11.github.io/AITTI/)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/w+adapter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
