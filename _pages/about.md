@@ -40,7 +40,7 @@ I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/
 **Xinyu Hou**, Xiaoming Li, Chen Change Loy <br />
 arXiv, 2024
 
-[**arXiv**]() | [**Code**](https://github.com/itsmag11/AITTI) | [**Project Page**](https://itsmag11.github.io/AITTI/)
+[**arXiv**](http://arxiv.org/abs/2406.12805) | [**Code**](https://github.com/itsmag11/AITTI) | [**Project Page**](https://itsmag11.github.io/AITTI/)
 </div>
 </div>
 
