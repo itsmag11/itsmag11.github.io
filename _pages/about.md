@@ -24,9 +24,9 @@ I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/
 
 <br />
 # News
-- *2024.06*: &nbsp;Our paper [**AITTI**](https://itsmag11.github.io/AITTI/) is released to arXiv.
-- *2024.02*: &nbsp;Our paper <i>When StyleGAN Meets Stable Diffusion: A W+ Adapter for Personalized Image Generation</i> is accepted by CVPR 2024.
-- *2023.08*: &nbsp;Our paper <i>Viedo Infilling with Rich Motion Prior</i> is accepted by BMVC 2023. 
+- *2024.06*: &nbsp;Our paper [*AITTI*](https://itsmag11.github.io/AITTI/) is released to arXiv.
+- *2024.02*: &nbsp;Our paper [*W+ Adapter*](https://csxmli2016.github.io/projects/w-plus-adapter/) is accepted by CVPR 2024.
+- *2023.08*: &nbsp;Our paper [*VIRMP*](https://proceedings.bmvc2023.org/103/) is accepted by BMVC 2023. 
 
 
 <br />
