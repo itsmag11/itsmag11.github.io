@@ -8,6 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+   .left {
+      float: left;
+   }
+   .right {
+      float: right;
+   }
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -108,8 +117,8 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 <br /> 
 # Educations
 ## Nanyang Technological University, Singapore <br /> 
-   Ph.D. in Computer Science <br /> 
-   *2021.08 - now*
+   <div class="left">Ph.D. in Computer Science</div>
+   <div class="right">2021.08 - now</div>
 
 <br /> 
 ## Nanyang Technological University, Singapore <br /> 
