@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/person/ccloy/" style="text-decoration: none;">Prof. Chen Change Loy</a> at <a href="https://www.mmlab-ntu.com/" style="text-decoration: none;"> MMLab@NTU</a>, in the School of Computer Science and Engineering, Nanyang Technological University, Singapore. Prior to my Ph.D. study, I received my B.Eng. degree in 2020 from Nanyang Technological University, and worked closely with <a href="https://www.eie.polyu.edu.hk/~lpchau/" style="text-decoration: none;">Prof. Lap-Pui Chau</a> for my undergraduate research. I am broadly interested in computer vision and related topics.
+I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/person/ccloy/" style="text-decoration: none; color: RoyalBlue;">Prof. Chen Change Loy</a> at <a href="https://www.mmlab-ntu.com/" style="text-decoration: none; color: RoyalBlue;"> MMLab@NTU</a>, in the School of Computer Science and Engineering, Nanyang Technological University, Singapore. Prior to my Ph.D. study, I received my B.Eng. degree in 2020 from Nanyang Technological University, and worked closely with <a href="https://www.eie.polyu.edu.hk/~lpchau/" style="text-decoration: none; color: RoyalBlue;">Prof. Lap-Pui Chau</a> for my undergraduate research. I am broadly interested in computer vision and related topics.
 
 <a href='https://scholar.google.com/citations?user=90lIt2QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
