@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/person/ccloy/">Prof. Chen Change Loy</a> at <a href="https://www.mmlab-ntu.com/"> MMLab@NTU</a>, in the School of Computer Science and Engineering, Nanyang Technological University, Singapore. Prior to my Ph.D. study, I received my B.Eng. degree in 2020 from Nanyang Technological University, and worked closely with <a href="https://www.eie.polyu.edu.hk/~lpchau/">Prof. Lap-Pui Chau</a> for my undergraduate research. I am broadly interested in computer vision and related topics.
+I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/person/ccloy/" style="text-decoration: none;">Prof. Chen Change Loy</a> at <a href="https://www.mmlab-ntu.com/" style="text-decoration: none;"> MMLab@NTU</a>, in the School of Computer Science and Engineering, Nanyang Technological University, Singapore. Prior to my Ph.D. study, I received my B.Eng. degree in 2020 from Nanyang Technological University, and worked closely with <a href="https://www.eie.polyu.edu.hk/~lpchau/" style="text-decoration: none;">Prof. Lap-Pui Chau</a> for my undergraduate research. I am broadly interested in computer vision and related topics.
 
 <a href='https://scholar.google.com/citations?user=90lIt2QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 <br />
 # News
-- [*2024/06*] &nbsp;Our paper [AITTI](https://itsmag11.github.io/AITTI/) is released to arXiv.
-- [*2024/02*] &nbsp;Our paper [W+ Adapter](https://csxmli2016.github.io/projects/w-plus-adapter/) is accepted by CVPR 2024.
-- [*2023/08*] &nbsp;Our paper [VIRMP](https://proceedings.bmvc2023.org/103/) is accepted by BMVC 2023. 
+- [*2024/06*] &nbsp;Our paper <a href="https://itsmag11.github.io/AITTI/" style="text-decoration: none;">AITTI</a> is released to arXiv.
+- [*2024/02*] &nbsp;Our paper <a href="https://csxmli2016.github.io/projects/w-plus-adapter/" style="text-decoration: none;">W+ Adapter</a> is accepted by CVPR 2024.
+- [*2023/08*] &nbsp;Our paper <a href="https://proceedings.bmvc2023.org/103/" style="text-decoration: none;">VIRMP</a> is accepted by BMVC 2023. 
 
 
 <br />
@@ -40,7 +40,7 @@ I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/
 **Xinyu Hou**, Xiaoming Li, Chen Change Loy <br />
 arXiv, 2024
 
-[**arXiv**](http://arxiv.org/abs/2406.12805) | [**Supplementary Materials**](https://entuedu-my.sharepoint.com/:b:/g/personal/xinyu_hou_staff_main_ntu_edu_sg/EVcLbNo4PYRMkPU3C6av5vcBA3igPLn3eAXG58dpbKwjvw?e=kW8gAK) | [**Code**](https://github.com/itsmag11/AITTI) | [**Project Page**](https://itsmag11.github.io/AITTI/)
+[arXiv](http://arxiv.org/abs/2406.12805) | [Supplementary Materials](https://entuedu-my.sharepoint.com/:b:/g/personal/xinyu_hou_staff_main_ntu_edu_sg/EVcLbNo4PYRMkPU3C6av5vcBA3igPLn3eAXG58dpbKwjvw?e=kW8gAK) | [Code](https://github.com/itsmag11/AITTI) | [Project Page](https://itsmag11.github.io/AITTI/)
 </div>
 </div>
 
@@ -52,7 +52,7 @@ arXiv, 2024
 Xiaoming Li, **Xinyu Hou**, Chen Change Loy <br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
 
-[**arXiv**](https://arxiv.org/abs/2311.17461) | [**Code**](https://github.com/csxmli2016/w-plus-adapter) | [**Project Page**](https://csxmli2016.github.io/projects/w-plus-adapter/)
+[arXiv](https://arxiv.org/abs/2311.17461) | [Code](https://github.com/csxmli2016/w-plus-adapter) | [Project Page](https://csxmli2016.github.io/projects/w-plus-adapter/)
 </div>
 </div>
 
@@ -64,7 +64,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
 **Xinyu Hou**, Liming Jiang, Rui Shao, Chen Change Loy <br />
 British Machine Vision Conference (**BMVC**), 2023
 
-[**Paper**](https://papers.bmvc2023.org/0103.pdf) | [**Poster**](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0103_poster.pdf) | [**Supplementary Materials**](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0103_supp.pdf) | [**Project Page**](https://proceedings.bmvc2023.org/103/)
+[Paper](https://papers.bmvc2023.org/0103.pdf) | [Poster](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0103_poster.pdf) | [Supplementary Materials](https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0103_supp.pdf) | [Project Page](https://proceedings.bmvc2023.org/103/)
 </div>
 </div>
 
@@ -76,7 +76,7 @@ British Machine Vision Conference (**BMVC**), 2023
 Yi Wang, Junhui Hou, **Xinyu Hou**, Lap-Pui Chau <br />
 IEEE Transactions on Image Processing (**TIP**), 2021
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/9347744)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9347744)
 </div>
 </div>
 
@@ -88,7 +88,7 @@ IEEE Transactions on Image Processing (**TIP**), 2021
 Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 IEEE International Conference on Multimedia & Expo Workshops (**ICMEW**), 2021
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/9455954)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9455954)
 </div>
 </div>
 
@@ -100,7 +100,7 @@ IEEE International Conference on Multimedia & Expo Workshops (**ICMEW**), 2021
 **Xinyu Hou**, Yi Wang, Lap-Pui Chau <br />
 IEEE International Conference on Advanced Video and Signal-Based Surveillance (**AVSS**), 2019
 
-[**Paper**](https://ieeexplore.ieee.org/abstract/document/8909903)
+[Paper](https://ieeexplore.ieee.org/abstract/document/8909903)
 </div>
 </div>
 
