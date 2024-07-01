@@ -85,7 +85,7 @@ British Machine Vision Conference (**BMVC**), 2023
 Yi Wang, Junhui Hou, **Xinyu Hou**, Lap-Pui Chau <br />
 IEEE Transactions on Image Processing (**TIP**), 2021
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/9347744)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9347744) | [Code](https://github.com/WangyiNTU/Point-supervised-crowd-detection)
 </div>
 </div>
 
@@ -97,7 +97,7 @@ IEEE Transactions on Image Processing (**TIP**), 2021
 Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 IEEE International Conference on Multimedia & Expo Workshops (**ICMEW**), 2021
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/9455954)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9455954) | [Code](https://github.com/WangyiNTU/SCALNet) | [arXiv](https://arxiv.org/abs/2104.12505)
 </div>
 </div>
 
