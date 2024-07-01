@@ -24,9 +24,9 @@ I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/
 
 <br />
 # News
-- [*2024/06*] &nbsp;Our paper <a href="https://itsmag11.github.io/AITTI/" style="text-decoration: none;">AITTI</a> is released to arXiv.
-- [*2024/02*] &nbsp;Our paper <a href="https://csxmli2016.github.io/projects/w-plus-adapter/" style="text-decoration: none;">W+ Adapter</a> is accepted by CVPR 2024.
-- [*2023/08*] &nbsp;Our paper <a href="https://proceedings.bmvc2023.org/103/" style="text-decoration: none;">VIRMP</a> is accepted by BMVC 2023. 
+- [*2024.06*] &nbsp;Our paper <a href="https://itsmag11.github.io/AITTI/" style="text-decoration: none;">AITTI</a> is released to arXiv.
+- [*2024.02*] &nbsp;Our paper <a href="https://csxmli2016.github.io/projects/w-plus-adapter/" style="text-decoration: none;">W+ Adapter</a> is accepted by **CVPR 2024**.
+- [*2023.08*] &nbsp;Our paper <a href="https://proceedings.bmvc2023.org/103/" style="text-decoration: none;">VIRMP</a> is accepted by **BMVC 2023**. 
 
 
 <br />
