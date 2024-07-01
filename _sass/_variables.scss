@@ -14,7 +14,7 @@ $indent-var                 : 0.5em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : Arial, Helvetica, sans-serif;
+$sans-serif                 : "Calibri", Helvetica, sans-serif;
 // Georgia, serif, sans-serif;
 //Arial, Helvetica, sans-serif;
 // "Times New Roman", Times, serif;
@@ -100,7 +100,8 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #0a62d0;
+$link-color                 : #4a6db3;
+// #0a62d0;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
