@@ -49,7 +49,7 @@ I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/
 **Xinyu Hou**, Xiaoming Li, Chen Change Loy <br />
 arXiv, 2024
 
-[arXiv](http://arxiv.org/abs/2406.12805) | [Supplementary Materials](https://entuedu-my.sharepoint.com/:b:/g/personal/xinyu_hou_staff_main_ntu_edu_sg/EVcLbNo4PYRMkPU3C6av5vcBA3igPLn3eAXG58dpbKwjvw?e=kW8gAK) | [Code](https://github.com/itsmag11/AITTI) | [Project Page](https://itsmag11.github.io/AITTI/)
+[Paper](http://arxiv.org/abs/2406.12805) | [Supplementary Materials](https://entuedu-my.sharepoint.com/:b:/g/personal/xinyu_hou_staff_main_ntu_edu_sg/EVcLbNo4PYRMkPU3C6av5vcBA3igPLn3eAXG58dpbKwjvw?e=kW8gAK) | [Code](https://github.com/itsmag11/AITTI) | [Project Page](https://itsmag11.github.io/AITTI/)
 </div>
 </div>
 
@@ -61,7 +61,7 @@ arXiv, 2024
 Xiaoming Li, **Xinyu Hou**, Chen Change Loy <br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
 
-[arXiv](https://arxiv.org/abs/2311.17461) | [Code](https://github.com/csxmli2016/w-plus-adapter) | [Project Page](https://csxmli2016.github.io/projects/w-plus-adapter/)
+[Paper](https://arxiv.org/abs/2311.17461) | [Code](https://github.com/csxmli2016/w-plus-adapter) | [Project Page](https://csxmli2016.github.io/projects/w-plus-adapter/)
 </div>
 </div>
 
@@ -97,7 +97,7 @@ IEEE Transactions on Image Processing (**TIP**), 2021
 Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 IEEE International Conference on Multimedia & Expo Workshops (**ICMEW**), 2021
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/9455954) | [Code](https://github.com/WangyiNTU/SCALNet) | [arXiv](https://arxiv.org/abs/2104.12505)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9455954) | [arXiv](https://arxiv.org/abs/2104.12505) | [Code](https://github.com/WangyiNTU/SCALNet)
 </div>
 </div>
 
