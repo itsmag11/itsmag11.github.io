@@ -97,7 +97,7 @@ IEEE Transactions on Image Processing (**TIP**), 2021
 Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 IEEE International Conference on Multimedia & Expo Workshops (**ICMEW**), 2021
 
-[Paper](https://ieeexplore.ieee.org/abstract/document/9455954) | [arXiv](https://arxiv.org/abs/2104.12505) | [Code](https://github.com/WangyiNTU/SCALNet)
+[Paper](https://ieeexplore.ieee.org/abstract/document/9455954) | [Code](https://github.com/WangyiNTU/SCALNet)
 </div>
 </div>
 
