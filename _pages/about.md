@@ -121,6 +121,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 ## Nanyang Technological University, Singapore <br /> 
    <div class="left">Ph.D. in Computer Science</div>
    <div class="right">Aug. 2021 &mdash; Present</div>
+   <br /> 
    Adviser: [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)
 <br /> 
 
@@ -128,6 +129,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 ## Nanyang Technological University, Singapore <br /> 
    <div class="left">B.Eng. in Electrical and Electronic Engineering</div>
    <div class="right">Aug. 2016 &mdash; Jun. 2020</div>
+   <br /> 
    Advisers: [Prof. Lap-Pui Chau](https://www.eie.polyu.edu.hk/~lpchau/), [Dr. Yi Wang](https://wangyintu.github.io/)
    <br /> 
    - Degree with Honors (Highest Distinction)
@@ -138,7 +140,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 ## École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland <br /> 
    <div class="left">Semester Exchange</div>
    <div class="right">Jul. 2018 &mdash; Dec. 2018</div>
-
+<br />
 
 <br />
 # Academic Services
