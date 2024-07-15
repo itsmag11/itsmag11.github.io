@@ -17,7 +17,7 @@ redirect_from:
    }
    .small-gap {
       display: block;
-      margin-bottom: 5px; /* Adjust the value as needed */
+      margin-bottom: 10px; /* Adjust the value as needed */
    }
 </style>
 
