@@ -26,7 +26,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student supervised by <a href="https://www.mmlab-ntu.com/person/ccloy/" style="text-decoration: none;">Prof. Chen Change Loy</a> at <a href="https://www.mmlab-ntu.com/" style="text-decoration: none;"> MMLab@NTU</a>, in the College of Computing and Data Science, Nanyang Technological University, Singapore. Prior to my Ph.D. study, I received my B.Eng. degree in 2020 from the same university, and worked closely with <a href="https://www.eie.polyu.edu.hk/~lpchau/" style="text-decoration: none;">Prof. Lap-Pui Chau</a> for my undergraduate research. I am broadly interested in computer vision and related topics.
+I am currently a Ph.D. candidate supervised by <a href="https://www.mmlab-ntu.com/person/ccloy/" style="text-decoration: none;">Prof. Chen Change Loy</a> at <a href="https://www.mmlab-ntu.com/" style="text-decoration: none;"> MMLab@NTU</a>, in the College of Computing and Data Science, Nanyang Technological University, Singapore. I am broadly interested in computer vision, with a focus on safety and fairness issues in generative AI.
+
+Prior to my Ph.D. study, I received my B.Eng. degree with honors (highest distinction) from the same university in 2020. I worked closely with <a href="https://www.eie.polyu.edu.hk/~lpchau/" style="text-decoration: none;">Prof. Lap-Pui Chau</a> for my undergraduate research. 
 
 <!-- <a href='https://scholar.google.com/citations?user=90lIt2QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
@@ -118,15 +120,24 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 # Educations
 ## Nanyang Technological University, Singapore <br /> 
    <div class="left">Ph.D. in Computer Science</div>
-   <div class="right">Aug 2021 &mdash; Present</div>
+   <div class="right">Aug. 2021 &mdash; Present</div>
+   Adviser: [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)
 <br /> 
 
 <br /> 
 ## Nanyang Technological University, Singapore <br /> 
    <div class="left">B.Eng. in Electrical and Electronic Engineering</div>
-   <div class="right">Aug 2016 &mdash; Jun 2020</div>
+   <div class="right">Aug. 2016 &mdash; Jun. 2020</div>
+   Advisers: [Prof. Lap-Pui Chau](https://www.eie.polyu.edu.hk/~lpchau/), [Dr. Yi Wang](https://wangyintu.github.io/)
    <br /> 
-   - Degree with honors (highest distinction)
+   - Degree with Honors (Highest Distinction)
+   - Dean's List 2019-2020
+   - NTU Science and Engineering Scholarhsip 
+
+<br />
+## École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland <br /> 
+   <div class="left">Semester Exchange</div>
+   <div class="right">Jul. 2018 &mdash; Dec. 2018</div>
 
 
 <br />
