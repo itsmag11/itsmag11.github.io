@@ -15,6 +15,10 @@ redirect_from:
    .right {
       float: right;
    }
+   .small-gap {
+      display: block;
+      margin-bottom: 5px; /* Adjust the value as needed */
+   }
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -123,9 +127,8 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
    <div class="right">Aug. 2021 &mdash; Present</div>
    <br /> 
    Adviser: [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)
-<br /> 
 
-<br /> 
+<span class="small-gap"></span>
 ## Nanyang Technological University, Singapore <br /> 
    <div class="left">B.Eng. in Electrical and Electronic Engineering</div>
    <div class="right">Aug. 2016 &mdash; Jun. 2020</div>
@@ -136,11 +139,12 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
    - Dean's List 2019-2020
    - NTU Science and Engineering Scholarhsip 
 
-<br />
+<span class="small-gap"></span>
 ## École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland <br /> 
    <div class="left">Semester Exchange</div>
-   <div class="right">Jul. 2018 &mdash; Dec. 2018</div>
+   <div class="right">Sep. 2018 &mdash; Jan. 2019</div>
 <br />
+
 
 <br />
 # Academic Services
