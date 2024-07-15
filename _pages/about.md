@@ -133,7 +133,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
    <div class="left"><i>B.Eng. in Electrical and Electronic Engineering</i></div>
    <div class="right">Aug. 2016 &mdash; Jun. 2020</div>
    <br /> 
-   Advisers: [Prof. Lap-Pui Chau](https://www.eie.polyu.edu.hk/~lpchau/), [Dr. Yi Wang](https://wangyintu.github.io/)
+   Advisers: [Prof. Lap-Pui Chau](https://www.eie.polyu.edu.hk/~lpchau/) and [Dr. Yi Wang](https://wangyintu.github.io/)
    <br /> 
    - Degree with Honors (Highest Distinction)
    - Dean's List 2019-2020
