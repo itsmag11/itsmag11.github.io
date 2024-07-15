@@ -17,7 +17,7 @@ redirect_from:
    }
    .small-gap {
       display: block;
-      margin-bottom: 10px; /* Adjust the value as needed */
+      margin-bottom: 20px; /* Adjust the value as needed */
    }
 </style>
 
@@ -123,14 +123,14 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 <br /> 
 # Educations
 ## Nanyang Technological University, Singapore <br /> 
-   <div class="left">Ph.D. in Computer Science</div>
+   <div class="left"><i>Ph.D. in Computer Science</i></div>
    <div class="right">Aug. 2021 &mdash; Present</div>
    <br /> 
    Adviser: [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)
 
 <span class="small-gap"></span>
 ## Nanyang Technological University, Singapore <br /> 
-   <div class="left">B.Eng. in Electrical and Electronic Engineering</div>
+   <div class="left"><i>B.Eng. in Electrical and Electronic Engineering</i></div>
    <div class="right">Aug. 2016 &mdash; Jun. 2020</div>
    <br /> 
    Advisers: [Prof. Lap-Pui Chau](https://www.eie.polyu.edu.hk/~lpchau/), [Dr. Yi Wang](https://wangyintu.github.io/)
@@ -140,8 +140,8 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
    - NTU Science and Engineering Scholarhsip 
 
 <span class="small-gap"></span>
-## École Polytechnique Fédérale de Lausanne, Lausanne, Switzerland <br /> 
-   <div class="left">Semester Exchange</div>
+## École Polytechnique Fédérale de Lausanne, Switzerland <br /> 
+   <div class="left"><i>Semester Exchange</i></div>
    <div class="right">Sep. 2018 &mdash; Jan. 2019</div>
 <br />
 
