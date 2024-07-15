@@ -17,7 +17,7 @@ redirect_from:
    }
    .small-gap {
       display: block;
-      margin-bottom: 20px; /* Adjust the value as needed */
+      margin-bottom: 30px; /* Adjust the value as needed */
    }
 </style>
 
@@ -151,7 +151,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 ## Journal Reviewer:
 - International Journal of Computer Vision (IJCV)
 
-<br /> 
+<span class="small-gap"></span>
 ## Conference Reviewer: 
 - BMVC 2023，2024
 - ICLR 2024
