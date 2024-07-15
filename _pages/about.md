@@ -136,6 +136,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
    - Degree with Honors (Highest Distinction)
    - Dean's List 2019-2020
    - NTU Science and Engineering Scholarhsip 
+   <br /> 
    Advisers: [Prof. Lap-Pui Chau](https://www.eie.polyu.edu.hk/~lpchau/) and [Dr. Yi Wang](https://wangyintu.github.io/)
 
 <span class="small-gap"></span>
