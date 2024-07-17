@@ -34,10 +34,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate supervised by <a href="https://www.mmlab-ntu.com/person/ccloy/" style="text-decoration: none;">Prof. Chen Change Loy</a> at <a href="https://www.mmlab-ntu.com/" style="text-decoration: none;"> MMLab@NTU</a>, in the College of Computing and Data Science, Nanyang Technological University, Singapore. I am broadly interested in computer vision, with a focus on safety and fairness issues in generative AI.
+I am currently a Ph.D. candidate supervised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) at [MMLab@NTU](https://www.mmlab-ntu.com/), in the College of Computing and Data Science, Nanyang Technological University, Singapore. I am broadly interested in computer vision, with a focus on safety and fairness issues in generative AI.
 
 <span class="small-gap"></span>
-Prior to my Ph.D. study, I received my B.Eng. degree with honors (highest distinction) from the same university in 2020. I worked closely with <a href="https://www.eie.polyu.edu.hk/~lpchau/" style="text-decoration: none;">Prof. Lap-Pui Chau</a> for my undergraduate research. 
+Prior to my Ph.D. study, I received my B.Eng. degree with honors (highest distinction) from the same university in 2020. During my undergraduate study, I had valuable experience conducting research with [Prof. Lap-Pui Chau](https://www.eie.polyu.edu.hk/~lpchau/) and [Dr. Yi Wang](https://wangyintu.github.io/) on vehicle tracking and crowd counting. I also spent a semester at EPFL, working with [Dr. Irene Viola](https://www.ireneviola.com/) and [Dr. Alexiou Evangelos](https://scholar.google.com/citations?user=xFkp8DoAAAAJ&hl=en) on research project about light field and point cloud acquisition. Additionally, I completed an internship at Huawei International under the supervision of [Dr. Zhuo Wei](https://scholar.google.com.sg/citations?user=c94JPG0AAAAJ&hl=en) and [Dr. Rehana Yasmin](https://cemse.kaust.edu.sa/cs/people/person/rehana-yasmin). These experiences collectively contributed to my growth as a researcher and professional.
 
 <!-- <a href='https://scholar.google.com/citations?user=90lIt2QAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
