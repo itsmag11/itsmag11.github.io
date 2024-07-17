@@ -148,6 +148,8 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 ## École Polytechnique Fédérale de Lausanne, Switzerland <br /> 
    <div class="left"><i>Semester Exchange</i></div>
    <div class="right">Sep. 2018 &mdash; Jan. 2019</div>
+   <br /> 
+   Advisers: [Dr. Irene Viola](https://www.ireneviola.com/) and [Dr. Alexiou Evangelos](https://scholar.google.com/citations?user=xFkp8DoAAAAJ&hl=en)
 <br />
 
 
