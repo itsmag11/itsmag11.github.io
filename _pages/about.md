@@ -163,6 +163,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 - BMVC 2023, 2024
 - ICLR 2024, 2025
 - NeurIPS 2024
+- AISTATS 2025
 
 
 <br />
