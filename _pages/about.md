@@ -44,6 +44,7 @@ Prior to my Ph.D. study, I received my B.Eng. degree with honors (highest distin
 
 <br />
 # News
+- [11/2024] &nbsp;Our paper <a href="https://itsmag11.github.io/Omegance/" style="text-decoration: none;">Omegance</a> is released to arXiv.
 - [06/2024] &nbsp;Our paper <a href="https://itsmag11.github.io/AITTI/" style="text-decoration: none;">AITTI</a> is released to arXiv.
 - [02/2024] &nbsp;Our paper <a href="https://csxmli2016.github.io/projects/w-plus-adapter/" style="text-decoration: none;">W+ Adapter</a> is accepted by CVPR 2024.
 - [08/2023] &nbsp;Our paper <a href="https://proceedings.bmvc2023.org/103/" style="text-decoration: none;">VIRMP</a> is accepted by BMVC 2023. 
@@ -51,6 +52,18 @@ Prior to my Ph.D. study, I received my B.Eng. degree with honors (highest distin
 
 <br />
 # Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/omegance.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## Omegance: A Single Parameter for Various Granularities in Diffusion-Based Synthesis
+
+**Xinyu Hou**, Zongsheng Yue, Xiaoming Li, Chen Change Loy <br />
+arXiv, 2024
+
+[Paper](https://arxiv.org/abs/2411.17769) | [Code](https://github.com/itsmag11/Omegance) | [Project Page](https://itsmag11.github.io/Omegance/)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/aitti.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
