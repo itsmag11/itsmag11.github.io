@@ -155,7 +155,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
    <br /> 
    - Degree with Honors (Highest Distinction)
    - Dean's List 2019-2020
-   - NTU Science and Engineering Scholarhsip 
+   - NTU Science and Engineering Scholarship
 
 <span class="small-gap2"></span>
 ## École Polytechnique Fédérale de Lausanne, Switzerland <br /> 
