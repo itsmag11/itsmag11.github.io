@@ -34,7 +34,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. candidate supervised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) at [MMLab@NTU](https://www.mmlab-ntu.com/), in the College of Computing and Data Science, Nanyang Technological University, Singapore. I am broadly interested in computer vision, with a focus on safety and fairness issues in generative AI.
+I am currently a Ph.D. candidate supervised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) at [MMLab@NTU](https://www.mmlab-ntu.com/), in the College of Computing and Data Science, Nanyang Technological University, Singapore. I am broadly interested in computer vision, with a focus on generative AI.
 
 <span class="small-gap"></span>
 Prior to my Ph.D. study, I received my B.Eng. degree with honors (highest distinction) from the same university in 2020. During my undergraduate study, I had valuable experience conducting research with [Prof. Lap-Pui Chau](https://www.eie.polyu.edu.hk/~lpchau/) and [Dr. Yi Wang](https://wangyintu.github.io/) on vehicle tracking and crowd counting. I also spent a semester at EPFL, working with [Dr. Irene Viola](https://www.ireneviola.com/) and [Dr. Alexiou Evangelos](https://scholar.google.com/citations?user=xFkp8DoAAAAJ&hl=en) on research project about light field and point cloud acquisition. Additionally, I completed an internship at Huawei International under the supervision of [Dr. Zhuo Wei](https://scholar.google.com.sg/citations?user=c94JPG0AAAAJ&hl=en) and [Dr. Rehana Yasmin](https://cemse.kaust.edu.sa/cs/people/person/rehana-yasmin). These experiences collectively contributed to my growth as a researcher and professional.
