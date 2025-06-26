@@ -46,16 +46,16 @@ These experiences collectively contributed to my growth as a researcher and prof
 
 
 <br />
-# News
+# &#128240; News
 - [06/2025] &nbsp;<a href="https://itsmag11.github.io/Omegance/" style="text-decoration: none;">Omegance</a> is accepted by ICCV 2024. &#127881; &#127881;
 - [11/2024] &nbsp;Our paper <a href="https://itsmag11.github.io/Omegance/" style="text-decoration: none;">Omegance</a> is released to arXiv.
 - [06/2024] &nbsp;Our paper <a href="https://itsmag11.github.io/AITTI/" style="text-decoration: none;">AITTI</a> is released to arXiv.
 - [02/2024] &nbsp;Our paper <a href="https://csxmli2016.github.io/projects/w-plus-adapter/" style="text-decoration: none;">W+ Adapter</a> is accepted by CVPR 2024. &#127881; &#127881;
-- [08/2023] &nbsp;Our paper <a href="https://proceedings.bmvc2023.org/103/" style="text-decoration: none;">VIRMP</a> is accepted by BMVC 2023.&#127881; &#127881;
+- [08/2023] &nbsp;Our paper <a href="https://proceedings.bmvc2023.org/103/" style="text-decoration: none;">VIRMP</a> is accepted by BMVC 2023. &#127881; &#127881;
 
 
 <br />
-# Publications 
+# &#128194; Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/omegance.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -143,7 +143,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 
 
 <br /> 
-# Educations
+# &#127891; Educations
 ## Nanyang Technological University, Singapore <br /> 
    <div class="left"><i>Ph.D. in Computer Science</i></div>
    <div class="right">Aug. 2021 &mdash; Present</div>
@@ -171,7 +171,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 
 
 <br />
-# Academic Services
+# &#9997; Academic Services
 ## Journal Reviewer:
 - International Journal of Computer Vision (IJCV)
 
