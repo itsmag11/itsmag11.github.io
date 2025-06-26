@@ -47,7 +47,7 @@ These experiences collectively contributed to my growth as a researcher and prof
 
 <br />
 # &#128240; News
-- [06/2025] &nbsp;<a href="https://itsmag11.github.io/Omegance/" style="text-decoration: none;">Omegance</a> is accepted by ICCV 2024. &#127881; &#127881;
+- [06/2025] &nbsp;<a href="https://itsmag11.github.io/Omegance/" style="text-decoration: none;">Omegance</a> is accepted by ICCV 2025. &#127881; &#127881;
 - [11/2024] &nbsp;Our paper <a href="https://itsmag11.github.io/Omegance/" style="text-decoration: none;">Omegance</a> is released to arXiv.
 - [06/2024] &nbsp;Our paper <a href="https://itsmag11.github.io/AITTI/" style="text-decoration: none;">AITTI</a> is released to arXiv.
 - [02/2024] &nbsp;Our paper <a href="https://csxmli2016.github.io/projects/w-plus-adapter/" style="text-decoration: none;">W+ Adapter</a> is accepted by CVPR 2024. &#127881; &#127881;
