@@ -47,11 +47,11 @@ These experiences collectively contributed to my growth as a researcher and prof
 
 <br />
 # &#128240; News
-- [06/2025] &nbsp;<a href="https://itsmag11.github.io/Omegance/" style="text-decoration: none;">Omegance</a> is accepted by ICCV 2025. &#127881; &#127881;
-- [11/2024] &nbsp;Our paper <a href="https://itsmag11.github.io/Omegance/" style="text-decoration: none;">Omegance</a> is released to arXiv.
-- [06/2024] &nbsp;Our paper <a href="https://itsmag11.github.io/AITTI/" style="text-decoration: none;">AITTI</a> is released to arXiv.
-- [02/2024] &nbsp;Our paper <a href="https://csxmli2016.github.io/projects/w-plus-adapter/" style="text-decoration: none;">W+ Adapter</a> is accepted by CVPR 2024. &#127881; &#127881;
-- [08/2023] &nbsp;Our paper <a href="https://proceedings.bmvc2023.org/103/" style="text-decoration: none;">VIRMP</a> is accepted by BMVC 2023. &#127881; &#127881;
+- [06/2025] &#127881; &#127881; &nbsp;<a href="https://itsmag11.github.io/Omegance/" style="text-decoration: none;">Omegance</a> is accepted by ICCV 2025.
+- [11/2024] &nbsp;Our recent work <a href="https://arxiv.org/abs/2411.17769" style="text-decoration: none;">Omegance</a> is available on arXiv.
+- [06/2024] &nbsp;Our recent work <a href="http://arxiv.org/abs/2406.12805" style="text-decoration: none;">AITTI</a> is available on arXiv.
+- [02/2024] &#127881; &#127881; &nbsp;<a href="https://csxmli2016.github.io/projects/w-plus-adapter/" style="text-decoration: none;">W+ Adapter</a> is accepted by CVPR 2024. 
+- [08/2023] &#127881; &#127881; &nbsp;<a href="https://proceedings.bmvc2023.org/103/" style="text-decoration: none;">VIRMP</a> is accepted by BMVC 2023. 
 
 
 <br />
@@ -65,7 +65,7 @@ These experiences collectively contributed to my growth as a researcher and prof
 **Xinyu Hou**, Zongsheng Yue, Xiaoming Li, Chen Change Loy <br />
 IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025
 
-[Paper](https://arxiv.org/abs/2411.17769) | [Code](https://github.com/itsmag11/Omegance) | [Project Page](https://itsmag11.github.io/Omegance/)
+[arXiv](https://arxiv.org/abs/2411.17769) | [Code](https://github.com/itsmag11/Omegance) | [Project Page](https://itsmag11.github.io/Omegance/)
 </div>
 </div>
 
@@ -77,7 +77,7 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025
 **Xinyu Hou**, Xiaoming Li, Chen Change Loy <br />
 arXiv, 2024
 
-[Paper](http://arxiv.org/abs/2406.12805) | [Supplementary Materials](https://entuedu-my.sharepoint.com/:b:/g/personal/xinyu_hou_staff_main_ntu_edu_sg/EVcLbNo4PYRMkPU3C6av5vcBA3igPLn3eAXG58dpbKwjvw?e=kW8gAK) | [Code](https://github.com/itsmag11/AITTI) | [Project Page](https://itsmag11.github.io/AITTI/)
+[arXiv](http://arxiv.org/abs/2406.12805) | [Supplementary Materials](https://entuedu-my.sharepoint.com/:b:/g/personal/xinyu_hou_staff_main_ntu_edu_sg/EVcLbNo4PYRMkPU3C6av5vcBA3igPLn3eAXG58dpbKwjvw?e=kW8gAK) | [Code](https://github.com/itsmag11/AITTI) | [Project Page](https://itsmag11.github.io/AITTI/)
 </div>
 </div>
 
@@ -89,7 +89,7 @@ arXiv, 2024
 Xiaoming Li, **Xinyu Hou**, Chen Change Loy <br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
 
-[Paper](https://arxiv.org/abs/2311.17461) | [Code](https://github.com/csxmli2016/w-plus-adapter) | [Project Page](https://csxmli2016.github.io/projects/w-plus-adapter/)
+[arXiv](https://arxiv.org/abs/2311.17461) | [Code](https://github.com/csxmli2016/w-plus-adapter) | [Project Page](https://csxmli2016.github.io/projects/w-plus-adapter/)
 </div>
 </div>
 
@@ -172,6 +172,10 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 
 <br />
 # &#9997; Academic Services
+## Conference and Workshop Committee:
+- Co-organizer, [4th Mobile Intelligent Photograph and Imaging Workshop (MIPI)](https://mipi-challenge.org/MIPI2025/), ICCV 2025
+
+<span class="small-gap"></span>
 ## Journal Reviewer:
 - International Journal of Computer Vision (IJCV)
 
