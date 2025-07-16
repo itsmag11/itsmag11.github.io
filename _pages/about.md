@@ -89,7 +89,7 @@ arXiv, 2024
 Xiaoming Li, **Xinyu Hou**, Chen Change Loy <br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
 
-[arXiv](https://arxiv.org/abs/2311.17461) | [Code](https://github.com/csxmli2016/w-plus-adapter) | [Project Page](https://csxmli2016.github.io/projects/w-plus-adapter/)
+[arXiv](https://arxiv.org/abs/2311.17461) | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_When_StyleGAN_Meets_Stable_Diffusion_a_W_Adapter_for_Personalized_CVPR_2024_paper.pdf) | [Code](https://github.com/csxmli2016/w-plus-adapter) | [Project Page](https://csxmli2016.github.io/projects/w-plus-adapter/)
 </div>
 </div>
 
