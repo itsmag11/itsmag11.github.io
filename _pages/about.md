@@ -65,7 +65,7 @@ These experiences collectively contributed to my growth as a researcher and prof
 **Xinyu Hou**, Zongsheng Yue, Xiaoming Li, Chen Change Loy <br />
 IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025
 
-[arXiv](https://arxiv.org/abs/2411.17769) | [Code](https://github.com/itsmag11/Omegance) | [Project Page](https://itsmag11.github.io/Omegance/)
+[arXiv](https://arxiv.org/abs/2411.17769) | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Hou_Omegance_A_Single_Parameter_for_Various_Granularities_in_Diffusion-Based_Synthesis_ICCV_2025_paper.pdf) | [Code](https://github.com/itsmag11/Omegance) | [Project Page](https://itsmag11.github.io/Omegance/)
 </div>
 </div>
 
