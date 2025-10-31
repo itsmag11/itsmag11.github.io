@@ -178,6 +178,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 <span class="small-gap"></span>
 ## Journal Reviewer:
 - International Journal of Computer Vision (IJCV)
+- IEEE Transactions on Multimedia (TMM)
 
 <span class="small-gap"></span>
 ## Conference Reviewer: 
