@@ -190,6 +190,11 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 - BMVC 2023, 2024, 2025
 - AISTATS 2025
 
+<span class="small-gap"></span>
+## Teaching Assistant: 
+- [AI6126] Advanced Computer Vision
+- [SC4001] Neural Networks and Deep Learning
+
 
 <br />
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=474747&w=350&t=n&d=Yt038fCiB-Z6pytc0E24sPo3vTJPlHp6eY5WSv0eUI4&co=ffffff&cmo=00f2fe&cmn=0069ff&ct=808080"></script>
