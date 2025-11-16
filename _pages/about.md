@@ -192,8 +192,8 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 
 <span class="small-gap"></span>
 ## Teaching Assistant: 
-- [AI6126] Advanced Computer Vision
-- [SC4001] Neural Networks and Deep Learning
+- NTU AI6126: Advanced Computer Vision
+- NTU SC4001: Neural Networks and Deep Learning
 
 
 <br />
