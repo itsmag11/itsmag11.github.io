@@ -70,7 +70,7 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/aitti.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2025</div><img src='images/aitti.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation
