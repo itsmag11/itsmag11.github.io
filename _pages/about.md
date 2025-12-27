@@ -47,6 +47,7 @@ These experiences collectively contributed to my growth as a researcher and prof
 
 <br />
 # &#128240; News
+- [12/2025] &#127881; &#127881; &nbsp;<a href="https://itsmag11.github.io/AITTI/" style="text-decoration: none;">AITTI</a> is accepted by IJCV.
 - [06/2025] &#127881; &#127881; &nbsp;<a href="https://itsmag11.github.io/Omegance/" style="text-decoration: none;">Omegance</a> is accepted by ICCV 2025.
 - [11/2024] &nbsp;Our recent work <a href="https://arxiv.org/abs/2411.17769" style="text-decoration: none;">Omegance</a> is available on arXiv.
 - [06/2024] &nbsp;Our recent work <a href="http://arxiv.org/abs/2406.12805" style="text-decoration: none;">AITTI</a> is available on arXiv.
@@ -75,7 +76,7 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025
 ## AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation
 
 **Xinyu Hou**, Xiaoming Li, Chen Change Loy <br />
-arXiv, 2024
+International Journal of Computer Vision (IJCV), 2025
 
 [arXiv](http://arxiv.org/abs/2406.12805) | [Supplementary Materials](https://entuedu-my.sharepoint.com/:b:/g/personal/xinyu_hou_staff_main_ntu_edu_sg/EVcLbNo4PYRMkPU3C6av5vcBA3igPLn3eAXG58dpbKwjvw?e=kW8gAK) | [Code](https://github.com/itsmag11/AITTI) | [Project Page](https://itsmag11.github.io/AITTI/)
 </div>
