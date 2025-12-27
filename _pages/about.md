@@ -76,7 +76,7 @@ IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025
 ## AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation
 
 **Xinyu Hou**, Xiaoming Li, Chen Change Loy <br />
-International Journal of Computer Vision (IJCV), 2025
+International Journal of Computer Vision (**IJCV**), 2025
 
 [arXiv](http://arxiv.org/abs/2406.12805) | [Supplementary Materials](https://entuedu-my.sharepoint.com/:b:/g/personal/xinyu_hou_staff_main_ntu_edu_sg/EVcLbNo4PYRMkPU3C6av5vcBA3igPLn3eAXG58dpbKwjvw?e=kW8gAK) | [Code](https://github.com/itsmag11/AITTI) | [Project Page](https://itsmag11.github.io/AITTI/)
 </div>
