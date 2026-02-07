@@ -185,6 +185,7 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 ## Conference Reviewer: 
 - CVPR 2025, 2026
 - ICCV 2025
+- ECCV 2026
 - ICLR 2024, 2025, 2026
 - NeurIPS 2024, 2025
 - ICML 2025
