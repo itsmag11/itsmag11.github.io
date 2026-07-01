@@ -47,6 +47,7 @@ These experiences collectively contributed to my growth as a researcher and prof
 
 <br />
 # &#128240; News
+- [06/2024] &nbsp;Our recent work <a href="https://arxiv.org/abs/2606.31959" style="text-decoration: none;">AnyBokeh</a> is available on arXiv.
 - [12/2025] &#127881; &#127881; &nbsp;<a href="https://itsmag11.github.io/AITTI/" style="text-decoration: none;">AITTI</a> is accepted by IJCV.
 - [06/2025] &#127881; &#127881; &nbsp;<a href="https://itsmag11.github.io/Omegance/" style="text-decoration: none;">Omegance</a> is accepted by ICCV 2025.
 - [11/2024] &nbsp;Our recent work <a href="https://arxiv.org/abs/2411.17769" style="text-decoration: none;">Omegance</a> is available on arXiv.
@@ -57,6 +58,18 @@ These experiences collectively contributed to my growth as a researcher and prof
 
 <br />
 # &#128194; Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/anybokeh.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+## AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer
+
+**Xinyu Hou**, Xiaoming Li, Zongsheng Yue, Chen Change Loy <br />
+arXiv, 2026
+
+[arXiv](https://arxiv.org/abs/2606.31959) | [Code](https://github.com/itsmag11/AnyBokeh)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/omegance.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
