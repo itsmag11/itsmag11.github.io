@@ -47,7 +47,7 @@ These experiences collectively contributed to my growth as a researcher and prof
 
 <br />
 # &#128240; News
-- [06/2024] &nbsp;Our recent work <a href="https://arxiv.org/abs/2606.31959" style="text-decoration: none;">AnyBokeh</a> is available on arXiv.
+- [07/2026] &nbsp;Our recent work <a href="https://arxiv.org/abs/2606.31959" style="text-decoration: none;">AnyBokeh</a> is available on arXiv.
 - [12/2025] &#127881; &#127881; &nbsp;<a href="https://itsmag11.github.io/AITTI/" style="text-decoration: none;">AITTI</a> is accepted by IJCV.
 - [06/2025] &#127881; &#127881; &nbsp;<a href="https://itsmag11.github.io/Omegance/" style="text-decoration: none;">Omegance</a> is accepted by ICCV 2025.
 - [11/2024] &nbsp;Our recent work <a href="https://arxiv.org/abs/2411.17769" style="text-decoration: none;">Omegance</a> is available on arXiv.
