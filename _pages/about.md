@@ -47,6 +47,7 @@ These experiences collectively contributed to my growth as a researcher and prof
 
 <br />
 # &#128240; News
+- [09/2026] &#127881; &#127881; &nbsp;<a href="https://itsmag11.github.io/AnyBokeh/" style="text-decoration: none;">AnyBokeh</a> is accepted by NeurIPS 2026. 
 - [07/2026] &nbsp;Our recent work <a href="https://arxiv.org/abs/2606.31959" style="text-decoration: none;">AnyBokeh</a> is available on arXiv.
 - [12/2025] &#127881; &#127881; &nbsp;<a href="https://itsmag11.github.io/AITTI/" style="text-decoration: none;">AITTI</a> is accepted by IJCV.
 - [06/2025] &#127881; &#127881; &nbsp;<a href="https://itsmag11.github.io/Omegance/" style="text-decoration: none;">Omegance</a> is accepted by ICCV 2025.
@@ -59,13 +60,13 @@ These experiences collectively contributed to my growth as a researcher and prof
 <br />
 # &#128194; Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/anybokeh.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/anybokeh.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ## AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer
 
 **Xinyu Hou**, Xiaoming Li, Zongsheng Yue, Chen Change Loy <br />
-arXiv, 2026
+The Fortieth Annual Conference on Neural Information Processing Systems, 2026
 
 [arXiv](https://arxiv.org/abs/2606.31959) | [Code](https://github.com/itsmag11/AnyBokeh)
 </div>
@@ -204,7 +205,6 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 - ICML 2025
 - BMVC 2023, 2024, 2025, 2026
 - AISTATS 2025
-- AAAI 2027
 
 <span class="small-gap"></span>
 ## Teaching Assistant: 
