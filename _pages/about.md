@@ -56,7 +56,33 @@ redirect_from:
       vertical-align: middle;
    }
    .edu-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 1.1em;
       margin-bottom: 1.6em;
+   }
+   .edu-logo {
+      flex: 0 0 60px;
+      width: 60px;
+      height: 60px;
+      padding: 8px;
+      box-sizing: border-box;
+      border: 1px solid #e6ecf5;
+      border-radius: 12px;
+      background: #fff;
+      box-shadow: 0 2px 6px rgba(74, 109, 179, 0.08);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+   }
+   .edu-logo img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+   }
+   .edu-body {
+      flex: 1 1 auto;
+      min-width: 0;
    }
    .edu-head {
       display: flex;
@@ -350,26 +376,35 @@ IEEE International Conference on Advanced Video and Signal-Based Surveillance (*
 # &#127891; Education
 
 <div class="edu-item">
-  <div class="edu-head"><span class="edu-school">Nanyang Technological University, Singapore</span><span class="edu-date">Aug 2021 &ndash; Present</span></div>
-  <div class="edu-degree">Ph.D. in Computer Science</div>
-  <div class="edu-meta">Adviser: <a href="https://www.mmlab-ntu.com/person/ccloy/">Prof. Chen Change Loy</a></div>
+  <div class="edu-logo"><img src="images/logo_ntu.svg" alt="NTU logo"></div>
+  <div class="edu-body">
+    <div class="edu-head"><span class="edu-school">Nanyang Technological University, Singapore</span><span class="edu-date">Aug 2021 &ndash; Present</span></div>
+    <div class="edu-degree">Ph.D. in Computer Science</div>
+    <div class="edu-meta">Adviser: <a href="https://www.mmlab-ntu.com/person/ccloy/">Prof. Chen Change Loy</a></div>
+  </div>
 </div>
 
 <div class="edu-item">
-  <div class="edu-head"><span class="edu-school">Nanyang Technological University, Singapore</span><span class="edu-date">Aug 2016 &ndash; Jun 2020</span></div>
-  <div class="edu-degree">B.Eng. in Electrical and Electronic Engineering</div>
-  <div class="edu-meta">Advisers: <a href="https://www.eie.polyu.edu.hk/~lpchau/">Prof. Lap-Pui Chau</a> and <a href="https://wangyintu.github.io/">Dr. Yi Wang</a></div>
-  <ul>
-    <li>Degree with Honors (Highest Distinction)</li>
-    <li>Dean's List 2019&ndash;2020</li>
-    <li>NTU Science and Engineering Scholarship</li>
-  </ul>
+  <div class="edu-logo"><img src="images/logo_ntu.svg" alt="NTU logo"></div>
+  <div class="edu-body">
+    <div class="edu-head"><span class="edu-school">Nanyang Technological University, Singapore</span><span class="edu-date">Aug 2016 &ndash; Jun 2020</span></div>
+    <div class="edu-degree">B.Eng. in Electrical and Electronic Engineering</div>
+    <div class="edu-meta">Advisers: <a href="https://www.eie.polyu.edu.hk/~lpchau/">Prof. Lap-Pui Chau</a> and <a href="https://wangyintu.github.io/">Dr. Yi Wang</a></div>
+    <ul>
+      <li>Degree with Honors (Highest Distinction)</li>
+      <li>Dean's List 2019&ndash;2020</li>
+      <li>NTU Science and Engineering Scholarship</li>
+    </ul>
+  </div>
 </div>
 
 <div class="edu-item">
-  <div class="edu-head"><span class="edu-school">École Polytechnique Fédérale de Lausanne, Switzerland</span><span class="edu-date">Sep 2018 &ndash; Jan 2019</span></div>
-  <div class="edu-degree">Semester Exchange</div>
-  <div class="edu-meta">Advisers: <a href="https://www.ireneviola.com/">Dr. Irene Viola</a> and <a href="https://scholar.google.com/citations?user=xFkp8DoAAAAJ&hl=en">Dr. Alexiou Evangelos</a></div>
+  <div class="edu-logo"><img src="images/logo_epfl.svg" alt="EPFL logo"></div>
+  <div class="edu-body">
+    <div class="edu-head"><span class="edu-school">École Polytechnique Fédérale de Lausanne, Switzerland</span><span class="edu-date">Sep 2018 &ndash; Jan 2019</span></div>
+    <div class="edu-degree">Semester Exchange</div>
+    <div class="edu-meta">Advisers: <a href="https://www.ireneviola.com/">Dr. Irene Viola</a> and <a href="https://scholar.google.com/citations?user=xFkp8DoAAAAJ&hl=en">Dr. Alexiou Evangelos</a></div>
+  </div>
 </div>
 
 
