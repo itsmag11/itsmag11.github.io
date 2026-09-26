@@ -269,7 +269,7 @@ These experiences collectively contributed to my growth as a researcher and prof
 ## AnyBokeh: <span class="nw">Physics-Guided</span> <span class="nw">Any-to-Any</span> Bokeh Editing with Optical Fingerprint&nbsp;Transfer
 
 **Xinyu Hou**, Xiaoming Li, Zongsheng Yue, Chen Change Loy <br />
-<span class="pub-venue"><i class="fas fa-landmark"></i><span>Conference on Neural Information Processing Systems (<span class="ab">NeurIPS</span>), <span class="yr">2026</span></span></span>
+<span class="pub-venue"><i class="fas fa-landmark"></i><span>Advances in Neural Information Processing Systems (<span class="ab">NeurIPS</span>), <span class="yr">2026</span></span></span>
 
 <div class="paper-links">
   <a class="pbtn" href="https://arxiv.org/abs/2606.31959"><i class="ai ai-arxiv"></i>arXiv</a>
