@@ -261,10 +261,10 @@ These experiences collectively contributed to my growth as a researcher and prof
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS<span class="sep"></span><span class="y">2026</span></div><img src='images/anybokeh.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer
+## AnyBokeh: <span class="nw">Physics-Guided</span> <span class="nw">Any-to-Any</span> Bokeh Editing with Optical Fingerprint&nbsp;Transfer
 
 **Xinyu Hou**, Xiaoming Li, Zongsheng Yue, Chen Change Loy <br />
-<span class="pub-venue">Conference on Neural Information Processing Systems (**NeurIPS**), 2026</span>
+<span class="pub-venue"><i class="fas fa-landmark"></i><span>Conference on Neural Information Processing Systems (<span class="ab">NeurIPS</span>), <span class="yr">2026</span></span></span>
 
 <div class="paper-links">
   <a class="pbtn" href="https://arxiv.org/abs/2606.31959"><i class="ai ai-arxiv"></i>arXiv</a>
@@ -278,10 +278,10 @@ These experiences collectively contributed to my growth as a researcher and prof
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV<span class="sep"></span><span class="y">2025</span></div><img src='images/omegance.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Omegance: A Single Parameter for Various Granularities in Diffusion-Based Synthesis
+## Omegance: A Single Parameter for Various Granularities in <span class="nw">Diffusion-Based</span>&nbsp;Synthesis
 
 **Xinyu Hou**, Zongsheng Yue, Xiaoming Li, Chen Change Loy <br />
-<span class="pub-venue">IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025</span>
+<span class="pub-venue"><i class="fas fa-landmark"></i><span>IEEE/CVF International Conference on Computer Vision (<span class="ab">ICCV</span>), <span class="yr">2025</span></span></span>
 
 <div class="paper-links">
   <a class="pbtn" href="https://arxiv.org/abs/2411.17769"><i class="ai ai-arxiv"></i>arXiv</a>
@@ -296,10 +296,10 @@ These experiences collectively contributed to my growth as a researcher and prof
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV<span class="sep"></span><span class="y">2025</span></div><img src='images/aitti.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## AITTI: Learning Adaptive Inclusive Token for Text-to-Image Generation
+## AITTI: Learning Adaptive Inclusive Token for <span class="nw">Text-to-Image</span>&nbsp;Generation
 
 **Xinyu Hou**, Xiaoming Li, Chen Change Loy <br />
-<span class="pub-venue">International Journal of Computer Vision (**IJCV**), 2025</span>
+<span class="pub-venue"><i class="fas fa-book"></i><span>International Journal of Computer Vision (<span class="ab">IJCV</span>), <span class="yr">2025</span></span></span>
 
 <div class="paper-links">
   <a class="pbtn" href="http://arxiv.org/abs/2406.12805"><i class="ai ai-arxiv"></i>arXiv</a>
@@ -314,10 +314,10 @@ These experiences collectively contributed to my growth as a researcher and prof
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR<span class="sep"></span><span class="y">2024</span></div><img src='images/w+adapter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## When StyleGAN Meets Stable Diffusion: A W+ Adapter for Personalized Image Generation
+## When StyleGAN Meets Stable Diffusion: A W+ Adapter for Personalized Image&nbsp;Generation
 
 Xiaoming Li, **Xinyu Hou**, Chen Change Loy <br />
-<span class="pub-venue">IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024</span>
+<span class="pub-venue"><i class="fas fa-landmark"></i><span>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span class="ab">CVPR</span>), <span class="yr">2024</span></span></span>
 
 <div class="paper-links">
   <a class="pbtn" href="https://arxiv.org/abs/2311.17461"><i class="ai ai-arxiv"></i>arXiv</a>
@@ -332,10 +332,10 @@ Xiaoming Li, **Xinyu Hou**, Chen Change Loy <br />
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC<span class="sep"></span><span class="y">2023</span></div><img src='images/virmp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Video Infilling with Rich Motion Prior
+## Video Infilling with Rich Motion&nbsp;Prior
 
 **Xinyu Hou**, Liming Jiang, Rui Shao, Chen Change Loy <br />
-<span class="pub-venue">British Machine Vision Conference (**BMVC**), 2023</span>
+<span class="pub-venue"><i class="fas fa-landmark"></i><span>British Machine Vision Conference (<span class="ab">BMVC</span>), <span class="yr">2023</span></span></span>
 
 <div class="paper-links">
   <a class="pbtn" href="https://papers.bmvc2023.org/0103.pdf"><i class="fas fa-file-pdf"></i>Paper</a>
@@ -349,10 +349,10 @@ Xiaoming Li, **Xinyu Hou**, Chen Change Loy <br />
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP<span class="sep"></span><span class="y">2021</span></div><img src='images/wangyi2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## A Self-Training Approach for Point-Supervised Object Detection and Counting in Crowds
+## A <span class="nw">Self-Training</span> Approach for <span class="nw">Point-Supervised</span> Object Detection and Counting in&nbsp;Crowds
 
 Yi Wang, Junhui Hou, **Xinyu Hou**, Lap-Pui Chau <br />
-<span class="pub-venue">IEEE Transactions on Image Processing (**TIP**), 2021</span>
+<span class="pub-venue"><i class="fas fa-book"></i><span>IEEE Transactions on Image Processing (<span class="ab">TIP</span>), <span class="yr">2021</span></span></span>
 
 <div class="paper-links">
   <a class="pbtn" href="https://ieeexplore.ieee.org/abstract/document/9347744"><i class="fas fa-file-pdf"></i>Paper</a>
@@ -365,10 +365,10 @@ Yi Wang, Junhui Hou, **Xinyu Hou**, Lap-Pui Chau <br />
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMEW<span class="sep"></span><span class="y">2021</span></div><img src='images/wangyi1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Dense Point Prediction: A Simple Baseline for Crowd Counting and Localization
+## Dense Point Prediction: A Simple Baseline for Crowd Counting and&nbsp;Localization
 
 Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
-<span class="pub-venue">IEEE International Conference on Multimedia & Expo Workshops (**ICMEW**), 2021</span>
+<span class="pub-venue"><i class="fas fa-landmark"></i><span>IEEE International Conference on Multimedia & Expo Workshops (<span class="ab">ICMEW</span>), <span class="yr">2021</span></span></span>
 
 <div class="paper-links">
   <a class="pbtn" href="https://ieeexplore.ieee.org/abstract/document/9455954"><i class="fas fa-file-pdf"></i>Paper</a>
@@ -381,10 +381,10 @@ Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AVSS<span class="sep"></span><span class="y">2019</span></div><img src='images/dslcf.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-## Vehicle Tracking Using Deep SORT with Low Confidence Track Filtering
+## Vehicle Tracking Using Deep SORT with Low Confidence Track&nbsp;Filtering
 
 **Xinyu Hou**, Yi Wang, Lap-Pui Chau <br />
-<span class="pub-venue">IEEE International Conference on Advanced Video and Signal-Based Surveillance (**AVSS**), 2019</span>
+<span class="pub-venue"><i class="fas fa-landmark"></i><span>IEEE International Conference on Advanced Video and Signal-Based Surveillance (<span class="ab">AVSS</span>), <span class="yr">2019</span></span></span>
 
 <div class="paper-links">
   <a class="pbtn" href="https://ieeexplore.ieee.org/abstract/document/8909903"><i class="fas fa-file-pdf"></i>Paper</a>

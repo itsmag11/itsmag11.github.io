@@ -76,6 +76,8 @@
             line-height: 1.35;
             color: #2f3437;
             margin-bottom: 0.35em;
+            text-wrap: pretty;
+            .nw { white-space: nowrap; }
         }
 
         p {
@@ -88,19 +90,29 @@
         p strong {
             color: #4a6db3;
         }
-
-        p .pub-venue strong {
-            font-style: normal;
-            color: #4b5563;
-        }
     }
 
     .pub-venue {
-        display: inline-block;
-        margin-top: 0.15em;
-        font-style: italic;
-        font-size: 0.95em;
-        color: #8a93a0;
+        display: flex;
+        align-items: baseline;
+        gap: 0.55em;
+        margin-top: 0.25em;
+        color: #6b7280;
+
+        i {
+            flex: 0 0 auto;
+            color: #4a6db3;
+            font-size: 0.9em;
+        }
+
+        .ab {
+            color: #4a6db3;
+            font-weight: 800;
+        }
+
+        .yr {
+            color: #9aa3af;
+        }
     }
     
     @include breakpoint($medium) {
