@@ -260,6 +260,18 @@
   }
 }
 
+.author__globe {
+  display: none;
+
+  @include breakpoint($large) {
+    display: block;
+    margin-top: 1.2em;
+    padding-top: 1em;
+    border-top: 1px dashed #dbe3f0;
+    text-align: center;
+  }
+}
+
 .icon-x {
   width: 1.25em;
   height: 0.85em;
