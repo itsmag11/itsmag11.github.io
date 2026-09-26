@@ -5,7 +5,16 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
+    {% if author.avatar_back %}
+    <div class="avatar-flip">
+      <div class="avatar-flip__inner">
+        <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+        <img src="{{ author.avatar_back }}" class="avatar-flip__back" alt="{{ author.avatar_back_alt | default: 'My cat' }}">
+      </div>
+    </div>
+    {% else %}
     <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    {% endif %}
   </div>
 
   <div class="author__content">

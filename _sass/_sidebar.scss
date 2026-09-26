@@ -109,6 +109,39 @@
   }
 }
 
+.avatar-flip {
+  display: inline-block;
+  perspective: 800px;
+  cursor: pointer;
+
+  &__inner {
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.7s cubic-bezier(0.4, 0.2, 0.2, 1);
+  }
+
+  &:hover &__inner {
+    transform: rotateY(180deg);
+  }
+
+  img {
+    display: block;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+
+  .avatar-flip__back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background: #fff;
+    transform: rotateY(180deg);
+  }
+}
+
 .author__content {
   display: table-cell;
   vertical-align: top;

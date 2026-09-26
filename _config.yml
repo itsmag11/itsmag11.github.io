@@ -27,6 +27,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyu Hou"
   avatar           : "images/IMG_5942.jpg"
+  avatar_back      : "images/cat_sleepy.jpg"   # shown when hovering the avatar (flip)
   bio              : "Ph.D. Candidate"
   affiliation      : "MMLab@NTU"
   affiliation_url  : "https://www.mmlab-ntu.com/"
