@@ -11,8 +11,9 @@ description              : "Nanyang Technological University"
 repository               : "itsmag11/itsmag11.github.io"
 google_scholar_stats_use_cdn : true
 
-# Visitor globe in the sidebar: the "d=" token from your own MapMyVisitors widget (https://mapmyvisitors.com)
-mapmyvisitors_id         : "X6rWaklS0_-OkzBoaxmd7O6m9FKkFV6aY63hpGfXplY"
+# Visitor map in the sidebar: the "d=" token from your own MapMyVisitors map widget (https://mapmyvisitors.com)
+mapmyvisitors_id         : "emRzh8yQIbqo4RaM5gd8RnoTPy5-McWh-2Z2NlohWJk"
+mapmyvisitors_stats_url  : "https://mapmyvisitors.com/web/1c8gi"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/

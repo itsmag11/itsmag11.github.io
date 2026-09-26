@@ -217,8 +217,25 @@
   </div>
 
   {% if site.mapmyvisitors_id %}
-  <div class="author__globe">
-    <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d={{ site.mapmyvisitors_id }}&w=130"></script>
+  <div class="author__map">
+    <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d={{ site.mapmyvisitors_id }}&cl=c5d3ee&w=a&t=n&co=ffffff&ct=4a6db3&cmo=7f9fd6&cmn=4a6db3"></script>
   </div>
+  {% if site.mapmyvisitors_stats_url %}
+  <script>
+    (function () {
+      var statsUrl = "{{ site.mapmyvisitors_stats_url }}";
+      var tries = 0;
+      var timer = setInterval(function () {
+        var link = document.getElementById("mapmyvisitors-widget");
+        if (link) {
+          link.href = statsUrl;
+          link.target = "_blank";
+          link.rel = "noopener";
+        }
+        if (++tries > 40) clearInterval(timer);
+      }, 250);
+    })();
+  </script>
+  {% endif %}
   {% endif %}
 </div>

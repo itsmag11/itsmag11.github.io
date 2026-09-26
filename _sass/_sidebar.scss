@@ -261,15 +261,43 @@
   }
 }
 
-.author__globe {
+.author__map {
   display: none;
 
   @include breakpoint($large) {
-    display: flex;
-    justify-content: center;
+    display: block;
     margin-top: 0.8em;
     padding-top: 0.8em;
     border-top: 1px dashed #dbe3f0;
+  }
+
+  #mapmyvisitors-widget,
+  .mapmyvisitors-map-container {
+    background: transparent !important;
+    box-shadow: none !important;
+    border: 0 !important;
+    min-height: 0 !important;
+    height: auto !important;
+    padding: 0 !important;
+  }
+
+  .jvectormap-zoomin,
+  .jvectormap-zoomout,
+  .jvectormap-goback {
+    display: none !important;
+  }
+
+  .mapmyvisitors-map {
+    mix-blend-mode: multiply;
+    // the +/- zoom buttons are baked into the bottom-left of the background image
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 13% 100%, 13% 56%, 0 56%);
+  }
+
+  .mapmyvisitors-visitors,
+  .mapmyvisitors-date,
+  .mapmyvisitors-bottom-text,
+  #clstminf {
+    display: none !important;
   }
 }
 
