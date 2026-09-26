@@ -91,9 +91,31 @@ redirect_from:
       flex-wrap: wrap;
       gap: 0.3em 1em;
    }
+   .edu-title {
+      display: inline-flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.3em 0.6em;
+   }
    .edu-school {
       font-size: 1.1em;
       font-weight: 700;
+   }
+   .edu-loc {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35em;
+      font-size: 0.75em;
+      font-weight: 600;
+      padding: 0.15em 0.65em;
+      border-radius: 999px;
+      background: #eef2fa;
+      color: #4a6db3;
+      border: 1px solid #d6e0f3;
+      white-space: nowrap;
+   }
+   .edu-loc i {
+      font-size: 0.9em;
    }
    .edu-date {
       font-family: Menlo, Consolas, monospace;
@@ -377,7 +399,7 @@ Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 <div class="edu-item">
   <div class="edu-logo"><img src="images/logo_ntu.svg" alt="NTU logo"></div>
   <div class="edu-body">
-    <div class="edu-head"><span class="edu-school">Nanyang Technological University, Singapore</span><span class="edu-date">Aug 2021 &ndash; Present</span></div>
+    <div class="edu-head"><span class="edu-title"><span class="edu-school">Nanyang Technological University</span><span class="edu-loc"><i class="fas fa-map-marker-alt"></i>Singapore</span></span><span class="edu-date">Aug 2021 &ndash; Present</span></div>
     <div class="edu-degree">Ph.D. in Computer Science</div>
     <div class="edu-meta">Adviser: <a href="https://www.mmlab-ntu.com/person/ccloy/">Prof. Chen Change Loy</a></div>
   </div>
@@ -386,7 +408,7 @@ Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 <div class="edu-item">
   <div class="edu-logo"><img src="images/logo_ntu.svg" alt="NTU logo"></div>
   <div class="edu-body">
-    <div class="edu-head"><span class="edu-school">Nanyang Technological University, Singapore</span><span class="edu-date">Aug 2016 &ndash; Jun 2020</span></div>
+    <div class="edu-head"><span class="edu-title"><span class="edu-school">Nanyang Technological University</span><span class="edu-loc"><i class="fas fa-map-marker-alt"></i>Singapore</span></span><span class="edu-date">Aug 2016 &ndash; Jun 2020</span></div>
     <div class="edu-degree">B.Eng. in Electrical and Electronic Engineering</div>
     <div class="edu-meta">Advisers: <a href="https://www.eie.polyu.edu.hk/~lpchau/">Prof. Lap-Pui Chau</a> and <a href="https://wangyintu.github.io/">Dr. Yi Wang</a></div>
     <ul>
@@ -400,7 +422,7 @@ Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 <div class="edu-item">
   <div class="edu-logo"><img src="images/logo_epfl.svg" alt="EPFL logo"></div>
   <div class="edu-body">
-    <div class="edu-head"><span class="edu-school">École Polytechnique Fédérale de Lausanne, Switzerland</span><span class="edu-date">Sep 2018 &ndash; Jan 2019</span></div>
+    <div class="edu-head"><span class="edu-title"><span class="edu-school">École Polytechnique Fédérale de Lausanne</span><span class="edu-loc"><i class="fas fa-map-marker-alt"></i>Switzerland</span></span><span class="edu-date">Sep 2018 &ndash; Jan 2019</span></div>
     <div class="edu-degree">Semester Exchange</div>
     <div class="edu-meta">Advisers: <a href="https://www.ireneviola.com/">Dr. Irene Viola</a> and <a href="https://scholar.google.com/citations?user=xFkp8DoAAAAJ&hl=en">Dr. Alexiou Evangelos</a></div>
   </div>
