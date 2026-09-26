@@ -48,7 +48,6 @@
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
     padding: 2em 0 2em 0;
-    
 
     .paper-box-image{
         justify-content: center;
@@ -58,7 +57,8 @@
         margin-top: 1.2em;
         img {
             max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
+            border-radius: 10px;
+            box-shadow: 0 4px 14px rgba(30, 50, 90, 0.14);
             object-fit: cover;
         }
     }
@@ -70,6 +70,37 @@
         h2:first-child {
             margin-top: 0;
         }
+
+        h2 {
+            font-size: 1.12em;
+            line-height: 1.35;
+            color: #2f3437;
+            margin-bottom: 0.35em;
+        }
+
+        p {
+            color: #6b7280;
+            font-size: 0.92em;
+            line-height: 1.55;
+            margin-bottom: 0.3em;
+        }
+
+        p strong {
+            color: #4a6db3;
+        }
+
+        p .pub-venue strong {
+            font-style: normal;
+            color: #4b5563;
+        }
+    }
+
+    .pub-venue {
+        display: inline-block;
+        margin-top: 0.15em;
+        font-style: italic;
+        font-size: 0.95em;
+        color: #8a93a0;
     }
     
     @include breakpoint($medium) {
@@ -104,14 +135,41 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
     position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    // color: black;
-    background-color: #4a6db3;
-    // background-color: #f3d849;
-    font-size: .8em;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    margin-top: 12px;
+    margin-left: -8px;
+    padding: 4px 12px;
+    border-radius: 0 999px 999px 0;
+    color: #fff;
+    background: #4a6db3;
+    font-size: .75em;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    line-height: 1.4;
+    box-shadow: 0 6px 16px rgba(74, 109, 179, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.25);
+
+    // folded corner: the ribbon wraps behind the image edge
+    &::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: -6px;
+        border-top: 6px solid #2f4a82;
+        border-left: 8px solid transparent;
+    }
+
+    .sep {
+        width: 1px;
+        height: 0.95em;
+        margin: 0 0.6em;
+        background: rgba(255, 255, 255, 0.45);
+    }
+
+    .y {
+        font-weight: 500;
+        opacity: 0.9;
+    }
 }
