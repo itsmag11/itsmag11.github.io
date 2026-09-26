@@ -52,6 +52,11 @@ redirect_from:
       color: #4a6db3;
       background: #eef2fa;
    }
+   .paper-links a.pbtn.pbib.copied {
+      border-color: #4a6db3;
+      color: #fff;
+      background: #4a6db3;
+   }
    .paper-links img {
       vertical-align: middle;
    }
@@ -270,6 +275,7 @@ These experiences collectively contributed to my growth as a researcher and prof
   <a class="pbtn" href="https://arxiv.org/abs/2606.31959"><i class="ai ai-arxiv"></i>arXiv</a>
   <a class="pbtn" href="https://github.com/itsmag11/AnyBokeh"><i class="fab fa-github"></i>Code</a>
   <a class="pbtn" href="https://itsmag11.github.io/AnyBokeh/"><i class="fas fa-globe"></i>Project Page</a>
+  <a class="pbtn pbib" href="#" data-bib="hou2026anybokeh" title="Copy BibTeX"><i class="fas fa-quote-right"></i><span>BibTeX</span></a>
   <a href="https://github.com/itsmag11/AnyBokeh"><img src="https://img.shields.io/github/stars/itsmag11/AnyBokeh?style=social" alt="GitHub stars"></a>
 </div>
 </div>
@@ -288,6 +294,7 @@ These experiences collectively contributed to my growth as a researcher and prof
   <a class="pbtn" href="https://openaccess.thecvf.com/content/ICCV2025/papers/Hou_Omegance_A_Single_Parameter_for_Various_Granularities_in_Diffusion-Based_Synthesis_ICCV_2025_paper.pdf"><i class="fas fa-file-pdf"></i>Paper</a>
   <a class="pbtn" href="https://github.com/itsmag11/Omegance"><i class="fab fa-github"></i>Code</a>
   <a class="pbtn" href="https://itsmag11.github.io/Omegance/"><i class="fas fa-globe"></i>Project Page</a>
+  <a class="pbtn pbib" href="#" data-bib="hou2025omegance" title="Copy BibTeX"><i class="fas fa-quote-right"></i><span>BibTeX</span></a>
   <a href="https://github.com/itsmag11/Omegance"><img src="https://img.shields.io/github/stars/itsmag11/Omegance?style=social" alt="GitHub stars"></a>
 </div>
 </div>
@@ -306,6 +313,7 @@ These experiences collectively contributed to my growth as a researcher and prof
   <a class="pbtn" href="https://entuedu-my.sharepoint.com/:b:/g/personal/xinyu_hou_staff_main_ntu_edu_sg/EVcLbNo4PYRMkPU3C6av5vcBA3igPLn3eAXG58dpbKwjvw?e=kW8gAK"><i class="fas fa-paperclip"></i>Supplementary</a>
   <a class="pbtn" href="https://github.com/itsmag11/AITTI"><i class="fab fa-github"></i>Code</a>
   <a class="pbtn" href="https://itsmag11.github.io/AITTI/"><i class="fas fa-globe"></i>Project Page</a>
+  <a class="pbtn pbib" href="#" data-bib="hou2025aitti" title="Copy BibTeX"><i class="fas fa-quote-right"></i><span>BibTeX</span></a>
   <a href="https://github.com/itsmag11/AITTI"><img src="https://img.shields.io/github/stars/itsmag11/AITTI?style=social" alt="GitHub stars"></a>
 </div>
 </div>
@@ -324,6 +332,7 @@ Xiaoming Li, **Xinyu Hou**, Chen Change Loy <br />
   <a class="pbtn" href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_When_StyleGAN_Meets_Stable_Diffusion_a_W_Adapter_for_Personalized_CVPR_2024_paper.pdf"><i class="fas fa-file-pdf"></i>Paper</a>
   <a class="pbtn" href="https://github.com/csxmli2016/w-plus-adapter"><i class="fab fa-github"></i>Code</a>
   <a class="pbtn" href="https://csxmli2016.github.io/projects/w-plus-adapter/"><i class="fas fa-globe"></i>Project Page</a>
+  <a class="pbtn pbib" href="#" data-bib="li2024wplusadapter" title="Copy BibTeX"><i class="fas fa-quote-right"></i><span>BibTeX</span></a>
   <a href="https://github.com/csxmli2016/w-plus-adapter"><img src="https://img.shields.io/github/stars/csxmli2016/w-plus-adapter?style=social" alt="GitHub stars"></a>
 </div>
 </div>
@@ -342,6 +351,7 @@ Xiaoming Li, **Xinyu Hou**, Chen Change Loy <br />
   <a class="pbtn" href="https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0103_poster.pdf"><i class="fas fa-image"></i>Poster</a>
   <a class="pbtn" href="https://bmvc2022.mpi-inf.mpg.de/BMVC2023/0103_supp.pdf"><i class="fas fa-paperclip"></i>Supplementary</a>
   <a class="pbtn" href="https://proceedings.bmvc2023.org/103/"><i class="fas fa-globe"></i>Project Page</a>
+  <a class="pbtn pbib" href="#" data-bib="hou2023video" title="Copy BibTeX"><i class="fas fa-quote-right"></i><span>BibTeX</span></a>
 </div>
 </div>
 </div>
@@ -357,6 +367,7 @@ Yi Wang, Junhui Hou, **Xinyu Hou**, Lap-Pui Chau <br />
 <div class="paper-links">
   <a class="pbtn" href="https://ieeexplore.ieee.org/abstract/document/9347744"><i class="fas fa-file-pdf"></i>Paper</a>
   <a class="pbtn" href="https://github.com/WangyiNTU/Point-supervised-crowd-detection"><i class="fab fa-github"></i>Code</a>
+  <a class="pbtn pbib" href="#" data-bib="wang2021self" title="Copy BibTeX"><i class="fas fa-quote-right"></i><span>BibTeX</span></a>
   <a href="https://github.com/WangyiNTU/Point-supervised-crowd-detection"><img src="https://img.shields.io/github/stars/WangyiNTU/Point-supervised-crowd-detection?style=social" alt="GitHub stars"></a>
 </div>
 </div>
@@ -373,6 +384,7 @@ Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 <div class="paper-links">
   <a class="pbtn" href="https://ieeexplore.ieee.org/abstract/document/9455954"><i class="fas fa-file-pdf"></i>Paper</a>
   <a class="pbtn" href="https://github.com/WangyiNTU/SCALNet"><i class="fab fa-github"></i>Code</a>
+  <a class="pbtn pbib" href="#" data-bib="wang2021dense" title="Copy BibTeX"><i class="fas fa-quote-right"></i><span>BibTeX</span></a>
   <a href="https://github.com/WangyiNTU/SCALNet"><img src="https://img.shields.io/github/stars/WangyiNTU/SCALNet?style=social" alt="GitHub stars"></a>
 </div>
 </div>
@@ -388,6 +400,7 @@ Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 
 <div class="paper-links">
   <a class="pbtn" href="https://ieeexplore.ieee.org/abstract/document/8909903"><i class="fas fa-file-pdf"></i>Paper</a>
+  <a class="pbtn pbib" href="#" data-bib="hou2019vehicle" title="Copy BibTeX"><i class="fas fa-quote-right"></i><span>BibTeX</span></a>
 </div>
 </div>
 </div>
@@ -461,3 +474,37 @@ Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 
 
 <br />
+
+<script>
+(function () {
+  var BIB = {{ site.data.bibtex | jsonify }};
+  function fallbackCopy(text) {
+    var ta = document.createElement('textarea');
+    ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0';
+    document.body.appendChild(ta); ta.select();
+    try { document.execCommand('copy'); } finally { document.body.removeChild(ta); }
+  }
+  function copy(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+      return navigator.clipboard.writeText(text).catch(function () { fallbackCopy(text); });
+    }
+    fallbackCopy(text);
+    return Promise.resolve();
+  }
+  document.addEventListener('click', function (e) {
+    var btn = e.target.closest && e.target.closest('.pbib');
+    if (!btn) return;
+    e.preventDefault();
+    var text = BIB[btn.getAttribute('data-bib')];
+    if (!text) return;
+    copy(text).then(function () {
+      var icon = btn.querySelector('i'), label = btn.querySelector('span');
+      btn.classList.add('copied'); icon.className = 'fas fa-check'; label.textContent = 'Copied!';
+      clearTimeout(btn._t);
+      btn._t = setTimeout(function () {
+        btn.classList.remove('copied'); icon.className = 'fas fa-quote-right'; label.textContent = 'BibTeX';
+      }, 1600);
+    });
+  });
+})();
+</script>
