@@ -71,7 +71,7 @@
 .profile_box{
   @include breakpoint($large) {
     display: block;
-    padding: 1.5em 1.1em 1.2em;
+    padding: 1.2em 1.1em 1em;
     border: 1px solid #e6ecf5;
     border-radius: 14px;
     background: linear-gradient(180deg, #eef3fb 0%, #f8fafd 45%, #fff 100%);
@@ -102,7 +102,8 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      max-width: 140px;
+      padding: 4px;
       border: 1px solid $border-color;
     }
   }
@@ -145,8 +146,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 6px;
+    margin-bottom: 12px;
   }
 }
 
@@ -244,10 +245,10 @@
 
   a {
     display: block;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
     padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+    padding-top: 1px;
+    padding-bottom: 1px;
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
@@ -264,11 +265,11 @@
   display: none;
 
   @include breakpoint($large) {
-    display: block;
-    margin-top: 1.2em;
-    padding-top: 1em;
+    display: flex;
+    justify-content: center;
+    margin-top: 0.8em;
+    padding-top: 0.8em;
     border-top: 1px dashed #dbe3f0;
-    text-align: center;
   }
 }
 

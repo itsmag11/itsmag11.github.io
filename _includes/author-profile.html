@@ -216,7 +216,9 @@
     </div>
   </div>
 
+  {% if site.mapmyvisitors_id %}
   <div class="author__globe">
-    <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d=Yt038fCiB-Z6pytc0E24sPo3vTJPlHp6eY5WSv0eUI4"></script>
+    <script type="text/javascript" id="mmvst_globe" src="https://mapmyvisitors.com/globe.js?d={{ site.mapmyvisitors_id }}&w=130"></script>
   </div>
+  {% endif %}
 </div>
