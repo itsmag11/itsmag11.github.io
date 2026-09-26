@@ -152,8 +152,8 @@ redirect_from:
       font-weight: 600;
    }
    .tag-accepted { background: #e6f4ea; color: #1e7e34; }
-   .tag-arxiv    { background: #fdecea; color: #b31b1b; }
-   .tag-release  { background: #e8f0fe; color: #1a56db; }
+   .tag-arxiv    { background: #eef2fa; color: #4a6db3; }
+   .tag-release  { background: #e3f6f5; color: #0f7b75; }
    .tag-service  { background: #fff4e0; color: #b26a00; }
    .tag-talk     { background: #f3e8fd; color: #7b2cbf; }
    .tag-award    { background: #fff8d6; color: #9a7b00; }
@@ -277,6 +277,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
   <a class="pbtn" href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_When_StyleGAN_Meets_Stable_Diffusion_a_W_Adapter_for_Personalized_CVPR_2024_paper.pdf"><i class="fas fa-file-pdf"></i>Paper</a>
   <a class="pbtn" href="https://github.com/csxmli2016/w-plus-adapter"><i class="fab fa-github"></i>Code</a>
   <a class="pbtn" href="https://csxmli2016.github.io/projects/w-plus-adapter/"><i class="fas fa-globe"></i>Project Page</a>
+  <a href="https://github.com/csxmli2016/w-plus-adapter"><img src="https://img.shields.io/github/stars/csxmli2016/w-plus-adapter?style=social" alt="GitHub stars"></a>
 </div>
 </div>
 </div>
@@ -309,6 +310,7 @@ IEEE Transactions on Image Processing (**TIP**), 2021
 <div class="paper-links">
   <a class="pbtn" href="https://ieeexplore.ieee.org/abstract/document/9347744"><i class="fas fa-file-pdf"></i>Paper</a>
   <a class="pbtn" href="https://github.com/WangyiNTU/Point-supervised-crowd-detection"><i class="fab fa-github"></i>Code</a>
+  <a href="https://github.com/WangyiNTU/Point-supervised-crowd-detection"><img src="https://img.shields.io/github/stars/WangyiNTU/Point-supervised-crowd-detection?style=social" alt="GitHub stars"></a>
 </div>
 </div>
 </div>
@@ -324,6 +326,7 @@ IEEE International Conference on Multimedia & Expo Workshops (**ICMEW**), 2021
 <div class="paper-links">
   <a class="pbtn" href="https://ieeexplore.ieee.org/abstract/document/9455954"><i class="fas fa-file-pdf"></i>Paper</a>
   <a class="pbtn" href="https://github.com/WangyiNTU/SCALNet"><i class="fab fa-github"></i>Code</a>
+  <a href="https://github.com/WangyiNTU/SCALNet"><img src="https://img.shields.io/github/stars/WangyiNTU/SCALNet?style=social" alt="GitHub stars"></a>
 </div>
 </div>
 </div>

@@ -71,6 +71,11 @@
 .profile_box{
   @include breakpoint($large) {
     display: block;
+    padding: 1.5em 1.1em 1.2em;
+    border: 1px solid #e6ecf5;
+    border-radius: 14px;
+    background: linear-gradient(180deg, #eef3fb 0%, #f8fafd 45%, #fff 100%);
+    box-shadow: 0 2px 10px rgba(74, 109, 179, 0.06);
   }
   display: flex;
   justify-content: flex-start;
@@ -246,11 +251,19 @@
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
+    transition: color 0.15s ease;
 
     &:hover {
       text-decoration: none;
+      color: $link-color;
     }
   }
+}
+
+.icon-x {
+  width: 1.25em;
+  height: 0.85em;
+  vertical-align: -0.075em;
 }
 
 .author__urls_sm{
@@ -262,6 +275,7 @@
     text-decoration: none;
     &:hover {
       text-decoration: none;
+      color: $link-color;
     }
   }
   @include breakpoint($large) {
