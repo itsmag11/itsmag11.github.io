@@ -430,7 +430,7 @@ Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 
 
 <br />
-# &#9997; Academic Services
+# &#127963;&#65039; Academic Services
 ## Conference and Workshop Committee
 - Co-organizer, [4th Mobile Intelligent Photograph and Imaging Workshop (MIPI)](https://mipi-challenge.org/MIPI2025/), ICCV 2025
 
