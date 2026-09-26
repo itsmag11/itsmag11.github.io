@@ -384,7 +384,7 @@ Yi Wang, **Xinyu Hou**, Lap-Pui Chau <br />
 ## Vehicle Tracking Using Deep SORT with Low Confidence Track&nbsp;Filtering
 
 **Xinyu Hou**, Yi Wang, Lap-Pui Chau <br />
-<span class="pub-venue"><i class="fas fa-landmark"></i><span>IEEE International Conference on Advanced Video and Signal-Based Surveillance (<span class="ab">AVSS</span>), <span class="yr">2019</span></span></span>
+<span class="pub-venue"><i class="fas fa-landmark"></i><span>IEEE International Conference on Advanced Video and <span class="nw">Signal-Based</span> Surveillance (<span class="ab">AVSS</span>), <span class="yr">2019</span></span></span>
 
 <div class="paper-links">
   <a class="pbtn" href="https://ieeexplore.ieee.org/abstract/document/8909903"><i class="fas fa-file-pdf"></i>Paper</a>

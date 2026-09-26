@@ -77,7 +77,6 @@
             color: #2f3437;
             margin-bottom: 0.35em;
             text-wrap: pretty;
-            .nw { white-space: nowrap; }
         }
 
         p {
@@ -92,12 +91,16 @@
         }
     }
 
+    .nw { white-space: nowrap; }
+
     .pub-venue {
         display: flex;
         align-items: baseline;
         gap: 0.55em;
         margin-top: 0.25em;
         color: #6b7280;
+
+        > span { text-wrap: balance; }
 
         i {
             flex: 0 0 auto;
