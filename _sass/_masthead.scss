@@ -61,4 +61,31 @@
   }
 }
 
+// line up "Homepage" with the sidebar card and the other items with the page text
+@include breakpoint($large) {
+  .masthead__inner-wrap {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+  // padding (not width) so greedy-navigation's $vlinks.width() still measures only the items
+  #site-nav .visible-links {
+    padding-left: calc(#{100% - span(10 of 12) + span(0.5 of 12) + gutter(12)} - 1rem);
+
+    li.masthead__menu-home-item {
+      position: absolute;
+      left: 0;
+      top: 50%;
+      width: span(2 of 12);
+      transform: translateY(-50%);
+      padding-right: 0;
+      text-align: center;
+
+      a {
+        margin: 0;
+      }
+    }
+  }
+}
+
 
