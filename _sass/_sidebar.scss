@@ -360,7 +360,7 @@
   padding: .25em;
   font-size: 1.4em;
   display: grid;
-  grid-template-columns: repeat(3, auto);
+  grid-template-columns: repeat(4, auto);
   gap: 0.35em 0.6em;
   justify-content: end;
   align-items: center;
@@ -421,13 +421,15 @@
     }
 
     i,
-    .icon-x {
+    .icon-x,
+    .icon-hf {
       margin-right: 0.35em;
       color: #6b7280;
     }
 
     a:hover i,
-    a:hover .icon-x {
+    a:hover .icon-x,
+    a:hover .icon-hf {
       color: inherit;
     }
   }
