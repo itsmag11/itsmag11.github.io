@@ -248,6 +248,7 @@ These experiences collectively contributed to my growth as a researcher and prof
 # &#128240; News
 <!-- Available tags: tag-accepted, tag-arxiv, tag-release, tag-service, tag-talk, tag-award -->
 <ul class="news-list">
+  <li><span class="news-date">Oct 2026</span><span class="news-tag tag-award">Milestone</span><span class="news-text">&#127881; Successfully passed my Ph.D. oral defense at <b>NTU</b>.</span></li>
   <li><span class="news-date">Sep 2026</span><span class="news-tag tag-accepted">Accepted</span><span class="news-text">&#127881; <a href="https://itsmag11.github.io/AnyBokeh/">AnyBokeh</a> is accepted by <b>NeurIPS 2026</b>.</span></li>
   <li><span class="news-date">Jul 2026</span><span class="news-tag tag-arxiv">arXiv</span><span class="news-text">Our recent work <a href="https://arxiv.org/abs/2606.31959">AnyBokeh</a>, physics-guided any-to-any bokeh editing, is available on arXiv.</span></li>
   <li><span class="news-date">Dec 2025</span><span class="news-tag tag-accepted">Accepted</span><span class="news-text">&#127881; <a href="https://itsmag11.github.io/AITTI/">AITTI</a> is accepted by <b>IJCV</b>.</span></li>
